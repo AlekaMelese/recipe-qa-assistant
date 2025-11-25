@@ -41,27 +41,7 @@ Project/
 └── README.md                        # This file
 ```
 
-## Setup Instructions
 
-### 1. Activate Conda Environment
-
-```bash
-conda activate /scratch/aayalew25/Aleka/alekapy
-```
-
-### 2. Navigate to Project Directory
-
-```bash
-cd /scratch/aayalew25/Food/FoodNew/Project
-```
-
-### 3. Install Additional Dependencies (if needed)
-
-The `anthropic` and `openai` packages are already installed. If you need to reinstall:
-
-```bash
-pip install anthropic openai
-```
 
 ## Usage
 
@@ -188,21 +168,6 @@ Located in `evaluation/test_qa_pairs.json`:
 - Relevance to query
 - Groundedness in retrieved recipes
 
-## Quick Start
-
-```bash
-# 1. Activate environment
-conda activate /scratch/aayalew25/Aleka/alekapy
-
-# 2. Go to project
-cd /scratch/aayalew25/Food/FoodNew/Project/src
-
-# 3. Set API key
-export ANTHROPIC_API_KEY='your-key'
-
-# 4. Run RAG system
-python rag_pipeline.py
-```
 
 ## Troubleshooting
 
