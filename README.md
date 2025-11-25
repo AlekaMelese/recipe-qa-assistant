@@ -264,8 +264,8 @@ python prepare_data.py
 ## 📧 Contact
 
 For questions or feedback:
-- Email: [your-email@example.com]
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: melese1820@gmail.com
+- GitHub: (https://github.com/AlekaMelese)
 
 ## 📄 License
 
@@ -275,7 +275,7 @@ MIT License - Feel free to use this project for educational purposes.
 
 - HUMMUS Recipe Database for the dataset
 - Anthropic for Claude 3 Haiku API
-- Course instructors and TAs
+- Course instructors (Mehrdad Rostami and Mohammad Aliannejadi)
 
 ---
 
