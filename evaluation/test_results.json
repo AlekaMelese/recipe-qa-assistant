@@ -1,0 +1,1282 @@
+[
+  {
+    "query": "Show me a quick vegetarian pasta recipe",
+    "answer": "Based on the recipes provided, the \"southwestern pasta\" recipe appears to be a quick vegetarian pasta option. The key ingredients are wacky mac pasta, minestrone soup, Morningstar Farms veggie crumbles, and black beans. This recipe looks like it can be prepared in about 35 minutes, making it a good choice for a quick vegetarian pasta dish.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 432886,
+        "title": "southwestern pasta",
+        "tags": "",
+        "ingredients": "{'': [('wacky mac pasta', '1 time(s) (12 ounce) bag '), (\"minestrone soup (i used campbell's)\", '1 time(s) (15 ounce) can '), ('morningstar farms meal starters grillers recipe crumbles', '1 time(s) (12 ounce) bag '), ('black beans (with liquid)', '1 time(s) (15 ounce) can '), ('mix (chipotle)', '1 time(s) (1 1/4 ounce) package taco seasoning '), ('frozen corn', '1  time(s) cup '), ('cheddar cheese', '2  time(s) cups ')]}",
+        "duration": 35.0,
+        "calories": 295.7,
+        "health_category": "moderate",
+        "searchable_text": "southwestern pasta  {'': [('wacky mac pasta', '1 time(s) (12 ounce) bag '), (\"minestrone soup (i used campbell's)\", '1 time(s) (15 ounce) can '), ('morningstar farms meal starters grillers recipe crumbles', '1 time(s) (12 ounce) bag '), ('black beans (with liquid)', '1 time(s) (15 ounce) can '), ('mix (chipotle)', '1 time(s) (1 1/4 ounce) package taco seasoning '), ('frozen corn', '1  time(s) cup '), ('cheddar cheese', '2  time(s) cups ')]}",
+        "relevance_score": 0.157544355292086
+      },
+      {
+        "recipe_id": 44027,
+        "title": "oatmeal bread",
+        "tags": "",
+        "ingredients": "{'': [('yeast', '2 time(s) (1/4 ounce) packages quick-rising '), ('water (110 degrees)', '0.5 time(s) cup '), ('boiling water', '1 1/4 time(s) cups '), ('quick-cooking rolled oats', '1  time(s) cup '), ('light molasses', '0.5 time(s) cup '), ('butter', '0.3333333333333333 time(s) cup '), ('salt', '1  time(s) tablespoon '), ('all-purpose flour', '5 3/4-6  time(s) cups '), ('beaten eggs', '2  time(s) ')], 'topping': [('rolled oats', ' time(s) quick-cooking '), ('white', '1 time(s) beaten egg '), ('water', '1 time(s) tablespoon ')]}",
+        "duration": 160.0,
+        "calories": 208.2,
+        "health_category": "moderate",
+        "searchable_text": "oatmeal bread  {'': [('yeast', '2 time(s) (1/4 ounce) packages quick-rising '), ('water (110 degrees)', '0.5 time(s) cup '), ('boiling water', '1 1/4 time(s) cups '), ('quick-cooking rolled oats', '1  time(s) cup '), ('light molasses', '0.5 time(s) cup '), ('butter', '0.3333333333333333 time(s) cup '), ('salt', '1  time(s) tablespoon '), ('all-purpose flour', '5 3/4-6  time(s) cups '), ('beaten eggs', '2  time(s) ')], 'topping': [('rolled oats', ' time(s) quick-cooking '), ('white', '1 time(s) beaten egg '), ('water', '1 time(s) tablespoon ')]}",
+        "relevance_score": 0.14882835480567994
+      },
+      {
+        "recipe_id": 374943,
+        "title": "stuffed shells",
+        "tags": "",
+        "ingredients": "{'recipe ingredients': [('box jumbo pasta shells (about 18 shells)', '0.5 time(s) (12 ounce) '), ('salt', '1  time(s) teaspoon '), ('container ricotta cheese', '1 time(s) (15 ounce) '), ('large eggs', '2  time(s) '), ('grated parmesan cheese', '1  time(s) cup '), ('grated mozzarella cheese', '2  time(s) cups '), ('dried) or 2 tablespoons $template2$ (or 2 teaspoons dried)', '2  time(s) tablespoons chopped fresh parsley (or 2 teaspoons '), ('jar italian pasta sauce', '1 time(s) (26 ounce) ')]}",
+        "duration": 50.0,
+        "calories": 533.9,
+        "health_category": "high_calorie",
+        "searchable_text": "stuffed shells  {'recipe ingredients': [('box jumbo pasta shells (about 18 shells)', '0.5 time(s) (12 ounce) '), ('salt', '1  time(s) teaspoon '), ('container ricotta cheese', '1 time(s) (15 ounce) '), ('large eggs', '2  time(s) '), ('grated parmesan cheese', '1  time(s) cup '), ('grated mozzarella cheese', '2  time(s) cups '), ('dried) or 2 tablespoons $template2$ (or 2 teaspoons dried)', '2  time(s) tablespoons chopped fresh parsley (or 2 teaspoons '), ('jar italian pasta sauce', '1 time(s) (26 ounce) ')]}",
+        "relevance_score": 0.14691394519182657
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.14556244659882916
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.1408409642452134
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "List two low-calorie dinners",
+    "answer": "Unfortunately, the recipes provided do not include any low-calorie dinner options. The recipes are mostly for beverages, side dishes, and desserts. There are no dinner recipes included in this context. The closest thing would be the \"glazed whole beets\" recipe, which is a low-calorie side dish, but not a full dinner.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings']",
+        "ingredients": "{'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "duration": 35.0,
+        "calories": 736.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "fresh berry syrup ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings'] {'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.32235325174984975
+      },
+      {
+        "recipe_id": 269233,
+        "title": "glazed whole beets",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'low-fat', 'dietary', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', '3-steps-or-less']",
+        "ingredients": "{'': [('of whole canned beets', '3 time(s) (15 ounce) cans '), ('sugar', '4  time(s) teaspoons '), ('all-purpose flour', '1  time(s) tablespoon '), ('salt', '0.25 time(s) teaspoon '), ('cider vinegar', '1  time(s) tablespoon ')]}",
+        "duration": 15.0,
+        "calories": 81.8,
+        "health_category": "low_calorie",
+        "searchable_text": "glazed whole beets ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'low-fat', 'dietary', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', '3-steps-or-less'] {'': [('of whole canned beets', '3 time(s) (15 ounce) cans '), ('sugar', '4  time(s) teaspoons '), ('all-purpose flour', '1  time(s) tablespoon '), ('salt', '0.25 time(s) teaspoon '), ('cider vinegar', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.31659946877814105
+      },
+      {
+        "recipe_id": 315097,
+        "title": "lemony broccoli",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'microwave', 'steam', 'beginner-cook', 'low-fat', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'inexpensive', 'healthy-2', 'low-in-something', 'broccoli', 'equipment', 'technique']",
+        "ingredients": "{'': [('fresh broccoli', '1  time(s) lb '), ('water', '2  time(s) tablespoons '), ('butter', '1  time(s) tablespoon '), ('lemon juice (from a bottle is fine)', '2  time(s) teaspoons '), ('salt and pepper', ' time(s) ')]}",
+        "duration": 10.0,
+        "calories": 205.8,
+        "health_category": "moderate",
+        "searchable_text": "lemony broccoli ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'microwave', 'steam', 'beginner-cook', 'low-fat', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'inexpensive', 'healthy-2', 'low-in-something', 'broccoli', 'equipment', 'technique'] {'': [('fresh broccoli', '1  time(s) lb '), ('water', '2  time(s) tablespoons '), ('butter', '1  time(s) tablespoon '), ('lemon juice (from a bottle is fine)', '2  time(s) teaspoons '), ('salt and pepper', ' time(s) ')]}",
+        "relevance_score": 0.3099176190710001
+      },
+      {
+        "recipe_id": 478541,
+        "title": "the perfect poached egg",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', '5-ingredients-or-less', 'very-low-carbs', 'breakfast', 'eggs-dairy', 'easy', 'eggs', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'brunch', 'number-of-servings', 'presentation', 'served-hot']",
+        "ingredients": "{'': [('distilled white vinegar', '1  time(s) cup '), ('large eggs, fresh', '2  time(s) '), ('water', ' time(s) '), ('salt', ' time(s) '), ('pepper', ' time(s) ')]}",
+        "duration": 12.0,
+        "calories": 92.9,
+        "health_category": "low_calorie",
+        "searchable_text": "the perfect poached egg ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', '5-ingredients-or-less', 'very-low-carbs', 'breakfast', 'eggs-dairy', 'easy', 'eggs', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'brunch', 'number-of-servings', 'presentation', 'served-hot'] {'': [('distilled white vinegar', '1  time(s) cup '), ('large eggs, fresh', '2  time(s) '), ('water', ' time(s) '), ('salt', ' time(s) '), ('pepper', ' time(s) ')]}",
+        "relevance_score": 0.303315789511733
+      },
+      {
+        "recipe_id": 248898,
+        "title": "melt in your mouth pie/cobbler crust",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', 'low-protein', 'very-low-carbs', 'cobblers-and-crisps', 'pies-and-tarts', 'desserts', 'easy', 'beginner-cook', 'crusts-pastry-dough-2', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'number-of-servings']",
+        "ingredients": "{'': [('all-purpose flour', '4  time(s) cups '), ('butter flavor crisco', '2  time(s) cups '), ('large egg', '1  time(s) '), ('apple cider vinegar', '1  time(s) tablespoon '), ('cold water', '0.5 time(s) cup '), ('salt', '1  time(s) teaspoon ')]}",
+        "duration": 15.0,
+        "calories": 5586.6,
+        "health_category": "very_high_calorie",
+        "searchable_text": "melt in your mouth pie/cobbler crust ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', 'low-protein', 'very-low-carbs', 'cobblers-and-crisps', 'pies-and-tarts', 'desserts', 'easy', 'beginner-cook', 'crusts-pastry-dough-2', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'number-of-servings'] {'': [('all-purpose flour', '4  time(s) cups '), ('butter flavor crisco', '2  time(s) cups '), ('large egg', '1  time(s) '), ('apple cider vinegar', '1  time(s) tablespoon '), ('cold water', '0.5 time(s) cup '), ('salt', '1  time(s) teaspoon ')]}",
+        "relevance_score": 0.30307219173860295
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What's a healthy breakfast option?",
+    "answer": "Based on the recipes provided, a healthy breakfast option would be the \"Strawberries with Yogurt and Lavender Sugar\". This recipe is low in calories (41.7 calories), low in fat, and contains healthy ingredients like fresh strawberries and plain yogurt. The recipe also has a short preparation time of only 3 minutes, making it a convenient and nutritious breakfast choice.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 297648,
+        "title": "big breakfast biscuit sandwich",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', 'very-low-carbs', 'breakfast', 'dietary', 'low-carb', 'low-in-something', 'number-of-servings']",
+        "ingredients": "{'': [('egg, lightly beaten', '1  time(s) '), ('finely chopped spam or 1 tablespoon any other cooked breakfast meat', '1  time(s) tablespoon '), ('shredded sharp cheddar cheese (optional)', '1  time(s) tablespoon '), ('ground black pepper', '0.125 time(s) teaspoon '), ('butter or 2 tablespoons $template2$', '2  time(s) tablespoons '), ('water', '0.25 time(s) cup ')]}",
+        "duration": 13.0,
+        "calories": 320.4,
+        "health_category": "moderate",
+        "searchable_text": "big breakfast biscuit sandwich ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', 'very-low-carbs', 'breakfast', 'dietary', 'low-carb', 'low-in-something', 'number-of-servings'] {'': [('egg, lightly beaten', '1  time(s) '), ('finely chopped spam or 1 tablespoon any other cooked breakfast meat', '1  time(s) tablespoon '), ('shredded sharp cheddar cheese (optional)', '1  time(s) tablespoon '), ('ground black pepper', '0.125 time(s) teaspoon '), ('butter or 2 tablespoons $template2$', '2  time(s) tablespoons '), ('water', '0.25 time(s) cup ')]}",
+        "relevance_score": 0.27841636548663623
+      },
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings']",
+        "ingredients": "{'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "duration": 35.0,
+        "calories": 736.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "fresh berry syrup ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings'] {'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.19623290478196936
+      },
+      {
+        "recipe_id": 228392,
+        "title": "strawberries with yogurt and lavender sugar",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', 'low-protein', 'healthy', '5-ingredients-or-less', 'breakfast', 'lunch', 'eggs-dairy', 'fruit', 'easy', 'low-fat', 'spring', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'number-of-servings']",
+        "ingredients": "{'': [('strawberry, hulled and sliced', '0.5 time(s) cup '), ('plain yogurt', '2  time(s) tablespoons '), ('lavender sugar, approximately', '0.75 time(s) teaspoon '), ('mint leaf (optional)', '1 -2  time(s) ')]}",
+        "duration": 3.0,
+        "calories": 41.7,
+        "health_category": "low_calorie",
+        "searchable_text": "strawberries with yogurt and lavender sugar ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', 'low-protein', 'healthy', '5-ingredients-or-less', 'breakfast', 'lunch', 'eggs-dairy', 'fruit', 'easy', 'low-fat', 'spring', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'number-of-servings'] {'': [('strawberry, hulled and sliced', '0.5 time(s) cup '), ('plain yogurt', '2  time(s) tablespoons '), ('lavender sugar, approximately', '0.75 time(s) teaspoon '), ('mint leaf (optional)', '1 -2  time(s) ')]}",
+        "relevance_score": 0.16820320385284138
+      },
+      {
+        "recipe_id": 152489,
+        "title": "chorizo, potato, and egg breakfast tacos (tex-mex)",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'cuisine', 'preparation', 'north-american', 'breakfast', 'american', 'southwestern-united-states', 'tex-mex']",
+        "ingredients": "{'': [('potato', '1  time(s) lb '), ('chorizo sausage', '1  time(s) lb mexican '), ('eggs', '6 time(s) '), ('onion (sliced)', '0.5 time(s) cup '), ('cheddar cheese (grated)', '1  time(s) cup '), ('taco sauce', '0.5 time(s) cup '), ('pepper', '3  time(s) teaspoons '), ('salt', '2  time(s) teaspoons '), ('olive oil', '3  time(s) tablespoons '), ('flour tortillas', '16  time(s) ')]}",
+        "duration": 40.0,
+        "calories": 878.1,
+        "health_category": "very_high_calorie",
+        "searchable_text": "chorizo, potato, and egg breakfast tacos (tex-mex) ['60-minutes-or-less', 'time-to-make', 'course', 'cuisine', 'preparation', 'north-american', 'breakfast', 'american', 'southwestern-united-states', 'tex-mex'] {'': [('potato', '1  time(s) lb '), ('chorizo sausage', '1  time(s) lb mexican '), ('eggs', '6 time(s) '), ('onion (sliced)', '0.5 time(s) cup '), ('cheddar cheese (grated)', '1  time(s) cup '), ('taco sauce', '0.5 time(s) cup '), ('pepper', '3  time(s) teaspoons '), ('salt', '2  time(s) teaspoons '), ('olive oil', '3  time(s) tablespoons '), ('flour tortillas', '16  time(s) ')]}",
+        "relevance_score": 0.15520624208724026
+      },
+      {
+        "recipe_id": 29518,
+        "title": "potato pancake",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'healthy', 'pancakes-and-waffles', 'breakfast', 'potatoes', 'vegetables', 'vegetarian', 'stove-top', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-in-something', 'brunch', 'equipment']",
+        "ingredients": "{'': [('grated potatoes', '2 1/2 time(s) lbs '), ('eggs', '2 time(s) '), ('flour', '1 1/4 time(s) cups '), ('garlic salt', '1  time(s) teaspoon '), ('onion salt', '1  time(s) teaspoon '), ('black pepper', '0.5 time(s) teaspoon '), ('oil', '4  time(s) tablespoons ')]}",
+        "duration": 15.0,
+        "calories": 518.3,
+        "health_category": "high_calorie",
+        "searchable_text": "potato pancake ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'healthy', 'pancakes-and-waffles', 'breakfast', 'potatoes', 'vegetables', 'vegetarian', 'stove-top', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-in-something', 'brunch', 'equipment'] {'': [('grated potatoes', '2 1/2 time(s) lbs '), ('eggs', '2 time(s) '), ('flour', '1 1/4 time(s) cups '), ('garlic salt', '1  time(s) teaspoon '), ('onion salt', '1  time(s) teaspoon '), ('black pepper', '0.5 time(s) teaspoon '), ('oil', '4  time(s) tablespoons ')]}",
+        "relevance_score": 0.15274263852942846
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Suggest a chocolate dessert",
+    "answer": "Based on the recipes provided, I would suggest the chocolate truffle cheesecake as a delicious chocolate dessert option. The description of it being a \"death by chocolate!\" cheesecake indicates it is a rich, indulgent chocolate dessert that would make for a great chocolate-themed treat.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 77427,
+        "title": "chocolate truffle cheesecake (death by chocolate!)",
+        "tags": "['weeknight', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'desserts', 'american', 'oven', 'dinner-party', 'holiday-event', 'chocolate', 'cheesecake', 'gifts', 'christmas', 'thanksgiving', 'valentines-day', 'taste-mood', 'sweet', 'equipment', 'small-appliance', 'mixer', '4-hours-or-less']",
+        "ingredients": "{'': [('chocolate wafer crumbs', '1 1/2 time(s) cups '), ('sugar', '2  time(s) tablespoons '), ('butter or 1/4 cup $template2$, melted', '0.25 time(s) cup ')], 'filling': [('semi-sweet chocolate chips', '/ time(s) cup '), ('heavy whipping cream', '/ time(s) cup '), ('cream cheese, softened', '24 time(s) ounces '), ('sugar', '1 time(s) cup '), ('baking cocoa', '/ time(s) cup '), ('eggs', '3 time(s) '), ('vanilla', '1 time(s) teaspoon ')], 'topping': [('semi-sweet chocolate chips', '1 1/2 time(s) cups '), ('heavy whipping cream', '/ time(s) cup '), ('vanilla', '1 time(s) teaspoon '), ('mini milk chocolate kiss optional', ' time(s) ')]}",
+        "duration": 80.0,
+        "calories": 538.6,
+        "health_category": "high_calorie",
+        "searchable_text": "chocolate truffle cheesecake (death by chocolate!) ['weeknight', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'desserts', 'american', 'oven', 'dinner-party', 'holiday-event', 'chocolate', 'cheesecake', 'gifts', 'christmas', 'thanksgiving', 'valentines-day', 'taste-mood', 'sweet', 'equipment', 'small-appliance', 'mixer', '4-hours-or-less'] {'': [('chocolate wafer crumbs', '1 1/2 time(s) cups '), ('sugar', '2  time(s) tablespoons '), ('butter or 1/4 cup $template2$, melted', '0.25 time(s) cup ')], 'filling': [('semi-sweet chocolate chips', '/ time(s) cup '), ('heavy whipping cream', '/ time(s) cup '), ('cream cheese, softened', '24 time(s) ounces '), ('sugar', '1 time(s) cup '), ('baking cocoa', '/ time(s) cup '), ('eggs', '3 time(s) '), ('vanilla', '1 time(s) teaspoon ')], 'topping': [('semi-sweet chocolate chips', '1 1/2 time(s) cups '), ('heavy whipping cream', '/ time(s) cup '), ('vanilla', '1 time(s) teaspoon '), ('mini milk chocolate kiss optional', ' time(s) ')]}",
+        "relevance_score": 0.17522004963435953
+      },
+      {
+        "recipe_id": 461661,
+        "title": "strawberry pretzel salad",
+        "tags": "",
+        "ingredients": "{'': [('pretzels, coarsely crushed', '2  time(s) cups '), ('sugar', '4  time(s) tablespoons '), ('sugar', '1  time(s) cup '), ('strawberry jell-o gelatin dessert', '6  time(s) ounces '), ('butter, melted', '0.75 time(s) cup '), ('cream cheese, softened', '1 time(s) (8 ounce) '), ('cool whip', '8  time(s) ounces '), ('frozen strawberries', '2 time(s) (10 ounce) ')]}",
+        "duration": 31.0,
+        "calories": 1565.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "strawberry pretzel salad  {'': [('pretzels, coarsely crushed', '2  time(s) cups '), ('sugar', '4  time(s) tablespoons '), ('sugar', '1  time(s) cup '), ('strawberry jell-o gelatin dessert', '6  time(s) ounces '), ('butter, melted', '0.75 time(s) cup '), ('cream cheese, softened', '1 time(s) (8 ounce) '), ('cool whip', '8  time(s) ounces '), ('frozen strawberries', '2 time(s) (10 ounce) ')]}",
+        "relevance_score": 0.16382996188548013
+      },
+      {
+        "recipe_id": 109011,
+        "title": "half batch chocolate chip cookies",
+        "tags": "",
+        "ingredients": "{'': [('flour', '2  time(s) cups '), ('baking soda', '1  time(s) teaspoon '), ('salt', '1  time(s) teaspoon '), ('splenda granular', '0.75 time(s) cup '), ('brown sugar', '0.75 time(s) cup '), ('butter, melted', '5  time(s) tablespoons '), ('eggs', '2 time(s) '), ('semi-sweet chocolate chips', '1  time(s) cup '), ('milk chocolate chips', '1  time(s) cup '), ('chocolate pudding mix or 3 tablespoons $template2$', '3  time(s) tablespoons '), ('almond extract', '1  time(s) tablespoon ')]}",
+        "duration": 40.0,
+        "calories": 132.6,
+        "health_category": "low_calorie",
+        "searchable_text": "half batch chocolate chip cookies  {'': [('flour', '2  time(s) cups '), ('baking soda', '1  time(s) teaspoon '), ('salt', '1  time(s) teaspoon '), ('splenda granular', '0.75 time(s) cup '), ('brown sugar', '0.75 time(s) cup '), ('butter, melted', '5  time(s) tablespoons '), ('eggs', '2 time(s) '), ('semi-sweet chocolate chips', '1  time(s) cup '), ('milk chocolate chips', '1  time(s) cup '), ('chocolate pudding mix or 3 tablespoons $template2$', '3  time(s) tablespoons '), ('almond extract', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.15862686787777489
+      },
+      {
+        "recipe_id": 90796,
+        "title": "chocolate banana heaven cake",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'for-large-groups', 'desserts', 'fruit', 'oven', 'cakes', 'chocolate', 'tropical-fruit', 'bananas', 'equipment', 'number-of-servings']",
+        "ingredients": "{'cake': [('package chocolate cake mix', ' time(s) 18 ounce '), ('cocoa powder', '/ time(s) cup '), ('eggs', '3 time(s) '), ('prepared maxwell house instant coffee, cooled', '1 time(s) cup '), ('water', '/ time(s) cup '), ('ripe bananas, mashed', '3 time(s) ')], 'icing': [('maxwell house instant coffee', '1 time(s) teaspoon '), ('milk, warmed', '2 time(s) tablespoons '), ('package philadelphia cream cheese, softened', ' time(s) 250 g '), ('baker semisweet chocolate, melted', '3 time(s) ounces '), ('powdered sugar', '2 time(s) cups '), ('chopped pecans', '/ time(s) cup '), ('chocolate curls optional', ' time(s) ')]}",
+        "duration": 55.0,
+        "calories": 341.0,
+        "health_category": "moderate",
+        "searchable_text": "chocolate banana heaven cake ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'for-large-groups', 'desserts', 'fruit', 'oven', 'cakes', 'chocolate', 'tropical-fruit', 'bananas', 'equipment', 'number-of-servings'] {'cake': [('package chocolate cake mix', ' time(s) 18 ounce '), ('cocoa powder', '/ time(s) cup '), ('eggs', '3 time(s) '), ('prepared maxwell house instant coffee, cooled', '1 time(s) cup '), ('water', '/ time(s) cup '), ('ripe bananas, mashed', '3 time(s) ')], 'icing': [('maxwell house instant coffee', '1 time(s) teaspoon '), ('milk, warmed', '2 time(s) tablespoons '), ('package philadelphia cream cheese, softened', ' time(s) 250 g '), ('baker semisweet chocolate, melted', '3 time(s) ounces '), ('powdered sugar', '2 time(s) cups '), ('chopped pecans', '/ time(s) cup '), ('chocolate curls optional', ' time(s) ')]}",
+        "relevance_score": 0.1443717838566099
+      },
+      {
+        "recipe_id": 200427,
+        "title": "white chocolate holiday bark",
+        "tags": "",
+        "ingredients": "{'': [('finely chopped white chocolate', '1  time(s) lb '), ('oil', '1 1/2 time(s) teaspoons '), ('dried cranberries', '0.5 time(s) cup '), ('shelled pistachios', '1 1/4 time(s) cups ')]}",
+        "duration": 95.0,
+        "calories": 2254.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "white chocolate holiday bark  {'': [('finely chopped white chocolate', '1  time(s) lb '), ('oil', '1 1/2 time(s) teaspoons '), ('dried cranberries', '0.5 time(s) cup '), ('shelled pistachios', '1 1/4 time(s) cups ')]}",
+        "relevance_score": 0.13653842822837833
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Give me a high-protein meal",
+    "answer": "Based on the recipes provided, the most high-protein meal option would be the \"Kahlua Paradise Chicken\". This recipe uses 2 3/4 lbs of chicken, which is a good source of high-quality protein. The recipe is also tagged as \"high-protein\" and \"low-carb\", making it a suitable high-protein meal choice.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 289140,
+        "title": "pollo al ajillo - garlic chicken. yummy",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'very-low-carbs', 'main-dish', 'poultry', 'easy', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat']",
+        "ingredients": "{'': [('whole chickens (either a whole chicken cut in to 4 cm/2 inch pieces or thighs and legs chopped separately)', '1 time(s) (1 1/2 kg) '), ('garlic cloves', '12  time(s) '), ('olive oil', ' time(s) '), ('salt', '1  time(s) teaspoon '), ('bay leaves', '3  time(s) '), ('glass white wine (optional)', '1  time(s) ')]}",
+        "duration": 40.0,
+        "calories": 823.5,
+        "health_category": "very_high_calorie",
+        "searchable_text": "pollo al ajillo - garlic chicken. yummy ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'very-low-carbs', 'main-dish', 'poultry', 'easy', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat'] {'': [('whole chickens (either a whole chicken cut in to 4 cm/2 inch pieces or thighs and legs chopped separately)', '1 time(s) (1 1/2 kg) '), ('garlic cloves', '12  time(s) '), ('olive oil', ' time(s) '), ('salt', '1  time(s) teaspoon '), ('bay leaves', '3  time(s) '), ('glass white wine (optional)', '1  time(s) ')]}",
+        "relevance_score": 0.2580389456607474
+      },
+      {
+        "recipe_id": 271347,
+        "title": "mexican style lime and cilantro whole chicken (slow cooker)",
+        "tags": "['course', 'main-ingredient', 'preparation', 'very-low-carbs', 'main-dish', 'poultry', 'easy', 'beginner-cook', 'chicken', 'crock-pot-slow-cooker', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat', 'whole-chicken', 'equipment']",
+        "ingredients": "{'': [('broiler chickens', '3 -4  time(s) lbs '), ('salt', '1  time(s) teaspoon '), ('pepper', '1  time(s) teaspoon '), ('lime', '1 time(s) '), ('fresh cilantro stem', '0.5 time(s) cup '), ('garlic cloves, peeled', '2  time(s) ')]}",
+        "duration": 435.0,
+        "calories": 741.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "mexican style lime and cilantro whole chicken (slow cooker) ['course', 'main-ingredient', 'preparation', 'very-low-carbs', 'main-dish', 'poultry', 'easy', 'beginner-cook', 'chicken', 'crock-pot-slow-cooker', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat', 'whole-chicken', 'equipment'] {'': [('broiler chickens', '3 -4  time(s) lbs '), ('salt', '1  time(s) teaspoon '), ('pepper', '1  time(s) teaspoon '), ('lime', '1 time(s) '), ('fresh cilantro stem', '0.5 time(s) cup '), ('garlic cloves, peeled', '2  time(s) ')]}",
+        "relevance_score": 0.23634019104628468
+      },
+      {
+        "recipe_id": 100452,
+        "title": "kahlua paradise chicken",
+        "tags": "['time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'chicken', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat', '4-hours-or-less']",
+        "ingredients": "{'': [('chickens', '2 3/4 time(s) lbs frying '), ('chicken broth', '0.5 time(s) cup '), ('kahlua', '0.25 time(s) cup '), ('red wine vinegar', '0.25 time(s) cup '), ('heinz ketchup', '2  time(s) tablespoons '), ('soy sauce', '1  time(s) tablespoon '), ('cornstarch', '1  time(s) tablespoon '), ('clove garlic, minced', '1  time(s) '), ('freshly grated ginger', '1  time(s) teaspoon ')]}",
+        "duration": 70.0,
+        "calories": 757.8,
+        "health_category": "very_high_calorie",
+        "searchable_text": "kahlua paradise chicken ['time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'chicken', 'dietary', 'high-protein', 'low-carb', 'high-in-something', 'low-in-something', 'meat', '4-hours-or-less'] {'': [('chickens', '2 3/4 time(s) lbs frying '), ('chicken broth', '0.5 time(s) cup '), ('kahlua', '0.25 time(s) cup '), ('red wine vinegar', '0.25 time(s) cup '), ('heinz ketchup', '2  time(s) tablespoons '), ('soy sauce', '1  time(s) tablespoon '), ('cornstarch', '1  time(s) tablespoon '), ('clove garlic, minced', '1  time(s) '), ('freshly grated ginger', '1  time(s) teaspoon ')]}",
+        "relevance_score": 0.2311785518875133
+      },
+      {
+        "recipe_id": 103817,
+        "title": "fiery roasted pumpkin seeds",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'lunch', 'snacks', 'vegetables', 'mexican', 'oven', 'easy', 'beginner-cook', 'finger-food', 'vegetarian', 'dietary', 'high-protein', 'high-in-something', 'equipment', 'presentation', 'served-cold']",
+        "ingredients": "{'': [('pumpkin seeds', '2  time(s) cups '), ('melted butter', '0.25 time(s) cup '), ('tabasco sauce', '0.5 time(s) teaspoon '), ('cayenne', '1  time(s) teaspoon '), ('cumin', '0.5 time(s) teaspoon '), ('chili powder', '2  time(s) teaspoons '), ('salt, to taste', '1  time(s) teaspoon ')]}",
+        "duration": 50.0,
+        "calories": 240.8,
+        "health_category": "moderate",
+        "searchable_text": "fiery roasted pumpkin seeds ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'lunch', 'snacks', 'vegetables', 'mexican', 'oven', 'easy', 'beginner-cook', 'finger-food', 'vegetarian', 'dietary', 'high-protein', 'high-in-something', 'equipment', 'presentation', 'served-cold'] {'': [('pumpkin seeds', '2  time(s) cups '), ('melted butter', '0.25 time(s) cup '), ('tabasco sauce', '0.5 time(s) teaspoon '), ('cayenne', '1  time(s) teaspoon '), ('cumin', '0.5 time(s) teaspoon '), ('chili powder', '2  time(s) teaspoons '), ('salt, to taste', '1  time(s) teaspoon ')]}",
+        "relevance_score": 0.224102476274219
+      },
+      {
+        "recipe_id": 494860,
+        "title": "high protein banana oat ricotta muffins with lsa",
+        "tags": "",
+        "ingredients": "{'': [('bananas (mashed)', '4  time(s) '), ('oats (coarsely ground)', '2  time(s) cups '), ('lsa', '0.5 time(s) cup '), ('egg white', '0.5 time(s) cup '), ('low-fat ricotta cheese or 1 cup $template2$', '1  time(s) cup '), ('coconut oil', '0.25 time(s) cup '), ('stevia', '0.5 time(s) cup '), ('baking powder', '1  time(s) teaspoon ')]}",
+        "duration": 20.0,
+        "calories": 209.1,
+        "health_category": "moderate",
+        "searchable_text": "high protein banana oat ricotta muffins with lsa  {'': [('bananas (mashed)', '4  time(s) '), ('oats (coarsely ground)', '2  time(s) cups '), ('lsa', '0.5 time(s) cup '), ('egg white', '0.5 time(s) cup '), ('low-fat ricotta cheese or 1 cup $template2$', '1  time(s) cup '), ('coconut oil', '0.25 time(s) cup '), ('stevia', '0.5 time(s) cup '), ('baking powder', '1  time(s) teaspoon ')]}",
+        "relevance_score": 0.21504536542364824
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Show me a salad recipe",
+    "answer": "Based on the recipes provided, here is a salad recipe:\n\nThe \"Pot Sticker and Roasted Pepper Salad\" is a salad recipe that includes frozen pot stickers, roasted red peppers, hoisin sauce, lemon juice, and sesame oil. It takes 35 minutes to prepare and has 147.6 calories.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.19214936963918483
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.18591678782149845
+      },
+      {
+        "recipe_id": 309379,
+        "title": "russian salad dressing",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'salads', 'easy', 'beginner-cook', 'salad-dressings']",
+        "ingredients": "{'': [('salad oil', '0.3333333333333333 time(s) cup '), ('sweet pickle juice (liquid sweet pickles are packed in)', '1  time(s) cup '), ('catsup', '1  time(s) cup '), ('sugar', '0.75 time(s) cup '), ('white vinegar', '0.25 time(s) cup '), ('paprika', '1  time(s) teaspoon '), ('ground pepper', '1  time(s) teaspoon '), ('celery seed', '1  time(s) teaspoon '), ('garlic powder', '0.5 time(s) teaspoon '), ('dash salt', '1  time(s) ')]}",
+        "duration": 10.0,
+        "calories": 1485.6,
+        "health_category": "very_high_calorie",
+        "searchable_text": "russian salad dressing ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'salads', 'easy', 'beginner-cook', 'salad-dressings'] {'': [('salad oil', '0.3333333333333333 time(s) cup '), ('sweet pickle juice (liquid sweet pickles are packed in)', '1  time(s) cup '), ('catsup', '1  time(s) cup '), ('sugar', '0.75 time(s) cup '), ('white vinegar', '0.25 time(s) cup '), ('paprika', '1  time(s) teaspoon '), ('ground pepper', '1  time(s) teaspoon '), ('celery seed', '1  time(s) teaspoon '), ('garlic powder', '0.5 time(s) teaspoon '), ('dash salt', '1  time(s) ')]}",
+        "relevance_score": 0.14731889352351285
+      },
+      {
+        "recipe_id": 180345,
+        "title": "pot sticker and roasted pepper salad",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'cuisine', 'preparation', 'salads', 'asian']",
+        "ingredients": "{'': [('pot stickers, frozen, any filling', '1  time(s) lb '), ('salad oil', '2  time(s) tablespoons '), ('jar roasted red peppers, drained', '1 time(s) (7 1/4 ounce) '), ('hoisin sauce', '0.25 time(s) cup '), ('lemon juice', '0.25 time(s) cup '), ('sesame oil, toasted', '1  time(s) tablespoon '), ('sugar', '2  time(s) teaspoons '), ('fresh ginger, minced', '1  time(s) teaspoon '), ('garlic clove, minced', '1  time(s) '), ('mixed salad greens (about 9 ounces)', '8  time(s) cups ')]}",
+        "duration": 35.0,
+        "calories": 147.6,
+        "health_category": "low_calorie",
+        "searchable_text": "pot sticker and roasted pepper salad ['60-minutes-or-less', 'time-to-make', 'course', 'cuisine', 'preparation', 'salads', 'asian'] {'': [('pot stickers, frozen, any filling', '1  time(s) lb '), ('salad oil', '2  time(s) tablespoons '), ('jar roasted red peppers, drained', '1 time(s) (7 1/4 ounce) '), ('hoisin sauce', '0.25 time(s) cup '), ('lemon juice', '0.25 time(s) cup '), ('sesame oil, toasted', '1  time(s) tablespoon '), ('sugar', '2  time(s) teaspoons '), ('fresh ginger, minced', '1  time(s) teaspoon '), ('garlic clove, minced', '1  time(s) '), ('mixed salad greens (about 9 ounces)', '8  time(s) cups ')]}",
+        "relevance_score": 0.14696392760218494
+      },
+      {
+        "recipe_id": 385367,
+        "title": "alouette crumbled blue cheese pear and baby arugula salad",
+        "tags": "",
+        "ingredients": "{'': [('package alouette crumbled blue cheese', '1  time(s) '), ('ea. bartlette pear', '1  time(s) '), ('red grapes', '12 -20  time(s) '), ('baby arugula, salad', '1  time(s) bag '), ('red wine vinaigrette', '4  time(s) ounces ')]}",
+        "duration": 5.0,
+        "calories": 34.4,
+        "health_category": "low_calorie",
+        "searchable_text": "alouette crumbled blue cheese pear and baby arugula salad  {'': [('package alouette crumbled blue cheese', '1  time(s) '), ('ea. bartlette pear', '1  time(s) '), ('red grapes', '12 -20  time(s) '), ('baby arugula, salad', '1  time(s) bag '), ('red wine vinaigrette', '4  time(s) ounces ')]}",
+        "relevance_score": 0.12499921915972653
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What can I make with chicken?",
+    "answer": "Based on the recipes provided in the context, here are some chicken dishes you can make:\n\n- Easy Roast Chicken - a whole roasted chicken seasoned with salt and pepper\n- Chicken Drumettes Pacifica - chicken drummettes marinated in a soy sauce, brown sugar, and butter sauce\n- Spiced Citrus Dump Chicken - chicken baked with a citrus and spice seasoning blend\n- Chicken Casserole Amandine - a chicken and stuffing casserole with cream of chicken soup and milk\n- Scrumptious Chicken - slow cooker chicken breasts in a creamy mushroom and onion soup sauce\n\nThe recipes cover a range of chicken dishes, from simple roasted chicken to slow cooker and casserole options. Let me know if you need any other details about these chicken recipes.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 111221,
+        "title": "easy roast chicken",
+        "tags": "",
+        "ingredients": "{'': [('whole chicken', '1  time(s) '), ('salt, hunza', ' time(s) '), ('pepper', ' time(s) ')]}",
+        "duration": 62.0,
+        "calories": 494.5,
+        "health_category": "high_calorie",
+        "searchable_text": "easy roast chicken  {'': [('whole chicken', '1  time(s) '), ('salt, hunza', ' time(s) '), ('pepper', ' time(s) ')]}",
+        "relevance_score": 0.38007276035769055
+      },
+      {
+        "recipe_id": 250600,
+        "title": "chicken drumettes pacifica",
+        "tags": "['time-to-make', 'course', 'main-ingredient', 'preparation', 'for-large-groups', 'appetizers', 'poultry', 'chicken', 'meat', 'chicken-thighs-legs', 'number-of-servings', '4-hours-or-less']",
+        "ingredients": "{'': [('chicken drummettes', '25 -30  time(s) '), ('soy sauce', '1  time(s) cup '), ('brown sugar, packed', '1  time(s) cup '), ('butter', '0.5 time(s) cup '), ('dry mustard', '1  time(s) teaspoon '), ('water', '0.75 time(s) cup ')]}",
+        "duration": 165.0,
+        "calories": 318.0,
+        "health_category": "moderate",
+        "searchable_text": "chicken drumettes pacifica ['time-to-make', 'course', 'main-ingredient', 'preparation', 'for-large-groups', 'appetizers', 'poultry', 'chicken', 'meat', 'chicken-thighs-legs', 'number-of-servings', '4-hours-or-less'] {'': [('chicken drummettes', '25 -30  time(s) '), ('soy sauce', '1  time(s) cup '), ('brown sugar, packed', '1  time(s) cup '), ('butter', '0.5 time(s) cup '), ('dry mustard', '1  time(s) teaspoon '), ('water', '0.75 time(s) cup ')]}",
+        "relevance_score": 0.2939976226183982
+      },
+      {
+        "recipe_id": 182179,
+        "title": "spiced citrus dump chicken",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'oven', 'easy', 'chicken', 'crock-pot-slow-cooker', 'freezer', 'dietary', 'oamc-freezer-make-ahead', 'meat', 'chicken-breasts', 'chicken-thighs-legs', 'wings', 'equipment', 'number-of-servings']",
+        "ingredients": "{'': [('olive oil', '2  time(s) tablespoons '), ('lime juice', '2  time(s) tablespoons '), ('orange juice', '2  time(s) tablespoons '), ('lemon juice', '2  time(s) tablespoons '), ('chili powder', '2  time(s) tablespoons '), ('paprika', '2  time(s) tablespoons '), ('cayenne (or more)', '0.25 time(s) teaspoon '), ('pepper', '0.5 time(s) teaspoon '), ('seasoning salt', '0.5 time(s) teaspoon '), ('chicken pieces (breasts, thighs, or wings)', '1 1/2 time(s) lbs ')]}",
+        "duration": 45.0,
+        "calories": 311.1,
+        "health_category": "moderate",
+        "searchable_text": "spiced citrus dump chicken ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'oven', 'easy', 'chicken', 'crock-pot-slow-cooker', 'freezer', 'dietary', 'oamc-freezer-make-ahead', 'meat', 'chicken-breasts', 'chicken-thighs-legs', 'wings', 'equipment', 'number-of-servings'] {'': [('olive oil', '2  time(s) tablespoons '), ('lime juice', '2  time(s) tablespoons '), ('orange juice', '2  time(s) tablespoons '), ('lemon juice', '2  time(s) tablespoons '), ('chili powder', '2  time(s) tablespoons '), ('paprika', '2  time(s) tablespoons '), ('cayenne (or more)', '0.25 time(s) teaspoon '), ('pepper', '0.5 time(s) teaspoon '), ('seasoning salt', '0.5 time(s) teaspoon '), ('chicken pieces (breasts, thighs, or wings)', '1 1/2 time(s) lbs ')]}",
+        "relevance_score": 0.24987370551817145
+      },
+      {
+        "recipe_id": 140548,
+        "title": "chicken casserole amandine",
+        "tags": "",
+        "ingredients": "{'': [('chicken breasts, cut into cubes', '1 1/2 time(s) lbs '), ('mix', '1 time(s) (120 g) package stovetop chicken flavor stuffing '), ('water', '1  time(s) cup '), ('poultry seasoning', '0.5 time(s) teaspoon '), ('condensed cream of chicken soup', '1 time(s) (10 ounce) can '), ('milk', '0.5 time(s) cup '), ('frozen green beans', '2  time(s) cups '), ('grated mozzarella cheese', '0.5 time(s) cup '), ('toasted sliced almonds', '0.25 time(s) cup ')]}",
+        "duration": 45.0,
+        "calories": 401.8,
+        "health_category": "high_calorie",
+        "searchable_text": "chicken casserole amandine  {'': [('chicken breasts, cut into cubes', '1 1/2 time(s) lbs '), ('mix', '1 time(s) (120 g) package stovetop chicken flavor stuffing '), ('water', '1  time(s) cup '), ('poultry seasoning', '0.5 time(s) teaspoon '), ('condensed cream of chicken soup', '1 time(s) (10 ounce) can '), ('milk', '0.5 time(s) cup '), ('frozen green beans', '2  time(s) cups '), ('grated mozzarella cheese', '0.5 time(s) cup '), ('toasted sliced almonds', '0.25 time(s) cup ')]}",
+        "relevance_score": 0.24915458218304007
+      },
+      {
+        "recipe_id": 133331,
+        "title": "scrumptious chicken",
+        "tags": "['time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'chicken', 'crock-pot-slow-cooker', 'dietary', 'low-carb', 'low-in-something', 'meat', 'chicken-breasts', 'equipment']",
+        "ingredients": "{'': [('skinless chicken breast halves', '4  time(s) '), ('cream of mushroom soup', '10 3/4 time(s) ounces '), ('sour cream', '16  time(s) ounces '), ('package lipton dry onion soup mix', '1  time(s) '), ('fresh basil or $template2$, chopped', ' time(s) ')]}",
+        "duration": 365.0,
+        "calories": 480.1,
+        "health_category": "high_calorie",
+        "searchable_text": "scrumptious chicken ['time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'poultry', 'chicken', 'crock-pot-slow-cooker', 'dietary', 'low-carb', 'low-in-something', 'meat', 'chicken-breasts', 'equipment'] {'': [('skinless chicken breast halves', '4  time(s) '), ('cream of mushroom soup', '10 3/4 time(s) ounces '), ('sour cream', '16  time(s) ounces '), ('package lipton dry onion soup mix', '1  time(s) '), ('fresh basil or $template2$, chopped', ' time(s) ')]}",
+        "relevance_score": 0.2436276987445705
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "List recipes under 30 minutes",
+    "answer": "Based on the recipes provided, the following are under 30 minutes:\n\n- basic syrup (30 minutes)\n- scuffles (22 minutes) \n- sopapillas-rudd (30 minutes)\n- beans on toast (20 minutes)\n- peanut butter goat milk fudge (30 minutes)",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 407931,
+        "title": "basic syrup",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', '5-ingredients-or-less', 'condiments-etc', 'easy', 'number-of-servings']",
+        "ingredients": "{'': [('sugar', '1  time(s) lb '), ('water', '2  time(s) cups '), ('vanilla beans', '2  time(s) '), ('cocoa', '3 1/2 time(s) ounces ')]}",
+        "duration": 30.0,
+        "calories": 1076.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "basic syrup ['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', '5-ingredients-or-less', 'condiments-etc', 'easy', 'number-of-servings'] {'': [('sugar', '1  time(s) lb '), ('water', '2  time(s) cups '), ('vanilla beans', '2  time(s) '), ('cocoa', '3 1/2 time(s) ounces ')]}",
+        "relevance_score": 0.21967259368177672
+      },
+      {
+        "recipe_id": 112128,
+        "title": "scuffles",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-large-groups', 'breakfast', 'number-of-servings']",
+        "ingredients": "{'': [('flour', '3  time(s) cups '), ('sugar', '3  time(s) tablespoons '), ('salt', '0.5 time(s) teaspoon '), ('instant yeast', '1  time(s) tablespoon '), ('margarine', '1  time(s) cup '), ('milk', '0.5 time(s) cup '), ('eggs', '2 time(s) '), ('water', '0.25 time(s) cup ')]}",
+        "duration": 22.0,
+        "calories": 141.4,
+        "health_category": "low_calorie",
+        "searchable_text": "scuffles ['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-large-groups', 'breakfast', 'number-of-servings'] {'': [('flour', '3  time(s) cups '), ('sugar', '3  time(s) tablespoons '), ('salt', '0.5 time(s) teaspoon '), ('instant yeast', '1  time(s) tablespoon '), ('margarine', '1  time(s) cup '), ('milk', '0.5 time(s) cup '), ('eggs', '2 time(s) '), ('water', '0.25 time(s) cup ')]}",
+        "relevance_score": 0.1936739950411182
+      },
+      {
+        "recipe_id": 272272,
+        "title": "sopapillas-rudd",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'low-protein', 'desserts', 'easy', 'dietary', 'low-in-something', '3-steps-or-less']",
+        "ingredients": "{'': [('flour', '1  time(s) cup '), ('baking powder', '1  time(s) teaspoon '), ('salt', '0.5 time(s) teaspoon '), ('shortening', '1  time(s) tablespoon '), ('water', '0.25 time(s) cup '), ('water', '2  time(s) tablespoons '), ('oil', '2  time(s) cups ')]}",
+        "duration": 30.0,
+        "calories": 737.5,
+        "health_category": "very_high_calorie",
+        "searchable_text": "sopapillas-rudd ['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'low-protein', 'desserts', 'easy', 'dietary', 'low-in-something', '3-steps-or-less'] {'': [('flour', '1  time(s) cup '), ('baking powder', '1  time(s) teaspoon '), ('salt', '0.5 time(s) teaspoon '), ('shortening', '1  time(s) tablespoon '), ('water', '0.25 time(s) cup '), ('water', '2  time(s) tablespoons '), ('oil', '2  time(s) cups ')]}",
+        "relevance_score": 0.19334828684808006
+      },
+      {
+        "recipe_id": 423427,
+        "title": "beans on toast",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'preparation', 'for-1-or-2', 'healthy', '5-ingredients-or-less', 'easy', 'dietary', 'number-of-servings']",
+        "ingredients": "{'': [('of heinz baked beans in tomato sauce', '1 time(s) (14 ounce) can '), ('large eggs', '4  time(s) '), ('slices bread, for toasting', '4  time(s) '), ('plenty butter (or equivalent if you prefer)', ' time(s) ')]}",
+        "duration": 20.0,
+        "calories": 462.6,
+        "health_category": "high_calorie",
+        "searchable_text": "beans on toast ['30-minutes-or-less', 'time-to-make', 'preparation', 'for-1-or-2', 'healthy', '5-ingredients-or-less', 'easy', 'dietary', 'number-of-servings'] {'': [('of heinz baked beans in tomato sauce', '1 time(s) (14 ounce) can '), ('large eggs', '4  time(s) '), ('slices bread, for toasting', '4  time(s) '), ('plenty butter (or equivalent if you prefer)', ' time(s) ')]}",
+        "relevance_score": 0.180008577731665
+      },
+      {
+        "recipe_id": 299129,
+        "title": "peanut butter goat milk fudge",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-large-groups', '5-ingredients-or-less', 'fudge', 'desserts', 'easy', 'candy', 'number-of-servings']",
+        "ingredients": "{'': [('sugar', '3  time(s) cups '), (\"goat's milk\", '1 1/2 time(s) cups '), ('peanut butter', '1  time(s) cup '), ('butter', '0.5 time(s) cup '), ('vanilla extract', '1  time(s) teaspoon ')]}",
+        "duration": 30.0,
+        "calories": 307.3,
+        "health_category": "moderate",
+        "searchable_text": "peanut butter goat milk fudge ['30-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-large-groups', '5-ingredients-or-less', 'fudge', 'desserts', 'easy', 'candy', 'number-of-servings'] {'': [('sugar', '3  time(s) cups '), (\"goat's milk\", '1 1/2 time(s) cups '), ('peanut butter', '1  time(s) cup '), ('butter', '0.5 time(s) cup '), ('vanilla extract', '1  time(s) teaspoon ')]}",
+        "relevance_score": 0.1545608600418323
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Show me a soup recipe",
+    "answer": "Based on the recipes provided, the \"easier than easy - french onion soup\" recipe appears to be the only soup recipe. This recipe calls for Campbell's French Onion Soup, water, croutons, and a slice of provolone cheese. It's a simple and quick soup recipe that can be prepared in just 2 minutes.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.196312550232648
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.18994493095051773
+      },
+      {
+        "recipe_id": 432886,
+        "title": "southwestern pasta",
+        "tags": "",
+        "ingredients": "{'': [('wacky mac pasta', '1 time(s) (12 ounce) bag '), (\"minestrone soup (i used campbell's)\", '1 time(s) (15 ounce) can '), ('morningstar farms meal starters grillers recipe crumbles', '1 time(s) (12 ounce) bag '), ('black beans (with liquid)', '1 time(s) (15 ounce) can '), ('mix (chipotle)', '1 time(s) (1 1/4 ounce) package taco seasoning '), ('frozen corn', '1  time(s) cup '), ('cheddar cheese', '2  time(s) cups ')]}",
+        "duration": 35.0,
+        "calories": 295.7,
+        "health_category": "moderate",
+        "searchable_text": "southwestern pasta  {'': [('wacky mac pasta', '1 time(s) (12 ounce) bag '), (\"minestrone soup (i used campbell's)\", '1 time(s) (15 ounce) can '), ('morningstar farms meal starters grillers recipe crumbles', '1 time(s) (12 ounce) bag '), ('black beans (with liquid)', '1 time(s) (15 ounce) can '), ('mix (chipotle)', '1 time(s) (1 1/4 ounce) package taco seasoning '), ('frozen corn', '1  time(s) cup '), ('cheddar cheese', '2  time(s) cups ')]}",
+        "relevance_score": 0.15608329691735306
+      },
+      {
+        "recipe_id": 162471,
+        "title": "easier than easy - french onion soup",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', '5-ingredients-or-less', 'soups-stews', 'easy', 'beginner-cook', 'dietary', 'low-cholesterol', 'low-calorie', 'low-carb', 'inexpensive', 'low-in-something', 'number-of-servings']",
+        "ingredients": "{'': [('french onion soup (campbells condensed, made with beefstock. the can does not say soup but i had to add it on for the r)', '1 time(s) (10 1/2 ounce) can '), ('water (optional)', '0.3333333333333333 time(s) cup '), ('crouton', '0.5 time(s) cup '), ('slice provolone cheese', '1  time(s) ')]}",
+        "duration": 2.0,
+        "calories": 296.3,
+        "health_category": "moderate",
+        "searchable_text": "easier than easy - french onion soup ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'for-1-or-2', '5-ingredients-or-less', 'soups-stews', 'easy', 'beginner-cook', 'dietary', 'low-cholesterol', 'low-calorie', 'low-carb', 'inexpensive', 'low-in-something', 'number-of-servings'] {'': [('french onion soup (campbells condensed, made with beefstock. the can does not say soup but i had to add it on for the r)', '1 time(s) (10 1/2 ounce) can '), ('water (optional)', '0.3333333333333333 time(s) cup '), ('crouton', '0.5 time(s) cup '), ('slice provolone cheese', '1  time(s) ')]}",
+        "relevance_score": 0.145173922632521
+      },
+      {
+        "recipe_id": 324263,
+        "title": "sunday chicken dinner",
+        "tags": "",
+        "ingredients": "{'': [('uncooked rice', '1  time(s) cup '), ('whole chicken, cut up', '1  time(s) '), ('salt and pepper', ' time(s) '), ('onion soup mix', '1  time(s) ounce '), ('cream of mushroom soup', '1 time(s) (8 ounce) can '), ('milk or 8 ounces $template2$', '8  time(s) ounces ')]}",
+        "duration": 130.0,
+        "calories": 670.6,
+        "health_category": "very_high_calorie",
+        "searchable_text": "sunday chicken dinner  {'': [('uncooked rice', '1  time(s) cup '), ('whole chicken, cut up', '1  time(s) '), ('salt and pepper', ' time(s) '), ('onion soup mix', '1  time(s) ounce '), ('cream of mushroom soup', '1 time(s) (8 ounce) can '), ('milk or 8 ounces $template2$', '8  time(s) ounces ')]}",
+        "relevance_score": 0.1391975120388624
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What's a good side dish?",
+    "answer": "Based on the recipes provided, there doesn't seem to be any information about specific side dish recommendations. The recipes cover main dishes like flourless chocolate cake, bread, chicken and mushroom scaloppine, and bacalhau a bras (a Portuguese cod dish), but do not mention any suggested side dishes to pair with them. Without more context about the types of main dishes you are looking to serve, I don't have enough information to provide a specific side dish recommendation from these recipes.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "tags": "",
+        "ingredients": "{'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "duration": 70.0,
+        "calories": 214.2,
+        "health_category": "moderate",
+        "searchable_text": "flourless chocolate cake  {'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.17020973252282673
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "tags": "['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less']",
+        "ingredients": "{'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "duration": 210.0,
+        "calories": 1705.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "good bread ['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less'] {'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "relevance_score": 0.1396625043416368
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "tags": "",
+        "ingredients": "{'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "duration": 45.0,
+        "calories": 735.1,
+        "health_category": "very_high_calorie",
+        "searchable_text": "chef joey's chicken and mushroom scaloppine  for two  {'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "relevance_score": 0.1216560984266108
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "tags": "",
+        "ingredients": "{'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "duration": 40.0,
+        "calories": 255.9,
+        "health_category": "moderate",
+        "searchable_text": "beaumont ranch potato salad  {'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "relevance_score": 0.11314634347779493
+      },
+      {
+        "recipe_id": 34966,
+        "title": "bacalhau a bras",
+        "tags": "['weeknight', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'very-low-carbs', 'main-dish', 'seafood', 'european', 'portuguese', 'fish', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'saltwater-fish', 'cod', '4-hours-or-less']",
+        "ingredients": "{'': [('pieces cod, cooked and cooled and shredded into bite-size pieces (make sure to remove bones and skin)', '3  time(s) '), ('onion, chopped finely', '1 -2  time(s) '), ('garlic cloves, chopped finely', '2  time(s) '), ('good quality extra virgin olive oil', '4  time(s) tablespoons '), ('salt and pepper', ' time(s) '), ('fresh parsley, chopped finely', ' time(s) '), ('eggs, beaten', '3  time(s) '), ('lemon, sliced into round pieces', ' time(s) ')]}",
+        "duration": 75.0,
+        "calories": 330.3,
+        "health_category": "moderate",
+        "searchable_text": "bacalhau a bras ['weeknight', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'very-low-carbs', 'main-dish', 'seafood', 'european', 'portuguese', 'fish', 'dietary', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'saltwater-fish', 'cod', '4-hours-or-less'] {'': [('pieces cod, cooked and cooled and shredded into bite-size pieces (make sure to remove bones and skin)', '3  time(s) '), ('onion, chopped finely', '1 -2  time(s) '), ('garlic cloves, chopped finely', '2  time(s) '), ('good quality extra virgin olive oil', '4  time(s) tablespoons '), ('salt and pepper', ' time(s) '), ('fresh parsley, chopped finely', ' time(s) '), ('eggs, beaten', '3  time(s) '), ('lemon, sliced into round pieces', ' time(s) ')]}",
+        "relevance_score": 0.11001981911762679
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Give me a vegan recipe",
+    "answer": "Based on the recipes provided, the vegan recipe is the \"Vegan Chocolate Bran Muffins\". This recipe is marked as vegan and contains ingredients like all-bran cereal, ground flax seed, and oil instead of dairy or eggs.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 356453,
+        "title": "vegan cheesecake (raspberry swirl and key lime)",
+        "tags": "",
+        "ingredients": "{'for key lime': [('sugar (increase from 2/3 cup)', '0.75 time(s) cup '), ('fresh key lime juice', '0.75 time(s) cup '), ('vanilla', '1  time(s) teaspoon ')], 'basic filling': [('packages vegan cream cheese (i use toffuti)', '2 time(s) (8 ounce) '), ('lemon juice', '4  time(s) tablespoons '), ('sugar', '0.6666666666666666 time(s) cup '), ('extra firm tofu or 2 -3 tablespoons fruit pectin', '1  time(s) tablespoon ')], 'for raspberry swirl': [('frozen raspberries', '1 1/2 time(s) cups '), ('lemon juice', '2  time(s) tablespoons '), ('sugar', '0.3333333333333333 time(s) cup ')], 'crust': [('graham cracker crumbs about 6 graham crackers', '1 1/2 time(s) cups '), ('vegan margarine i use smartbalance', '4 time(s) tablespoons '), ('sugar', '2 time(s) tablespoons ')]}",
+        "duration": 65.0,
+        "calories": 205.3,
+        "health_category": "moderate",
+        "searchable_text": "vegan cheesecake (raspberry swirl and key lime)  {'for key lime': [('sugar (increase from 2/3 cup)', '0.75 time(s) cup '), ('fresh key lime juice', '0.75 time(s) cup '), ('vanilla', '1  time(s) teaspoon ')], 'basic filling': [('packages vegan cream cheese (i use toffuti)', '2 time(s) (8 ounce) '), ('lemon juice', '4  time(s) tablespoons '), ('sugar', '0.6666666666666666 time(s) cup '), ('extra firm tofu or 2 -3 tablespoons fruit pectin', '1  time(s) tablespoon ')], 'for raspberry swirl': [('frozen raspberries', '1 1/2 time(s) cups '), ('lemon juice', '2  time(s) tablespoons '), ('sugar', '0.3333333333333333 time(s) cup ')], 'crust': [('graham cracker crumbs about 6 graham crackers', '1 1/2 time(s) cups '), ('vegan margarine i use smartbalance', '4 time(s) tablespoons '), ('sugar', '2 time(s) tablespoons ')]}",
+        "relevance_score": 0.17990821370943688
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.17560148637309614
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.16990565383831965
+      },
+      {
+        "recipe_id": 141933,
+        "title": "vegan chocolate bran muffins",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'breads', 'breakfast', 'kid-friendly', 'vegan', 'vegetarian', 'muffins', 'chocolate', 'grains', 'dietary', 'quick-breads', 'pasta-rice-and-grains']",
+        "ingredients": "{'': [('all-bran cereal', '1  time(s) cup '), ('water, warm', '1  time(s) cup '), ('ground flax seed', '1  time(s) tablespoon '), ('water', '3  time(s) tablespoons '), ('oil', '0.5 time(s) cup '), ('brown sugar', '0.75 time(s) cup '), ('flour', '1  time(s) cup '), ('baking powder', '1  time(s) teaspoon '), ('baking soda', '1  time(s) teaspoon '), ('chocolate chips', '0.5 time(s) cup ')]}",
+        "duration": 35.0,
+        "calories": 219.9,
+        "health_category": "moderate",
+        "searchable_text": "vegan chocolate bran muffins ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'breads', 'breakfast', 'kid-friendly', 'vegan', 'vegetarian', 'muffins', 'chocolate', 'grains', 'dietary', 'quick-breads', 'pasta-rice-and-grains'] {'': [('all-bran cereal', '1  time(s) cup '), ('water, warm', '1  time(s) cup '), ('ground flax seed', '1  time(s) tablespoon '), ('water', '3  time(s) tablespoons '), ('oil', '0.5 time(s) cup '), ('brown sugar', '0.75 time(s) cup '), ('flour', '1  time(s) cup '), ('baking powder', '1  time(s) teaspoon '), ('baking soda', '1  time(s) teaspoon '), ('chocolate chips', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.13559874256773966
+      },
+      {
+        "recipe_id": 429706,
+        "title": "carrot and cashew nut roast",
+        "tags": "['time-to-make', 'course', 'preparation', 'main-dish', 'oven', 'vegan', 'vegetarian', 'dietary', 'low-cholesterol', 'healthy-2', 'low-in-something', 'equipment', '4-hours-or-less']",
+        "ingredients": "{'': [('medium onions, chopped', '2  time(s) '), ('garlic cloves, chopped', '2  time(s) '), ('olive oil', '1  time(s) tablespoon '), ('water.)', '4  time(s) medium carrots, cooked. (retain cooking '), ('cashew nuts', '1 1/2 time(s) cups '), ('whole wheat bread crumbs (vegan if desired)', '2  time(s) cups '), ('tahini', '1  time(s) tablespoon '), ('caraway seeds', '1 1/2 time(s) teaspoons '), ('tamari or 1 tablespoon other $template2$', '1  time(s) tablespoon '), ('red wine vinegar)', '0.5 time(s) lemon, juice of (or 2 tablespoons '), ('water (from carrots if you kept it.)', '5  time(s) tablespoons '), ('salt & freshly ground black pepper', ' time(s) ')]}",
+        "duration": 110.0,
+        "calories": 455.6,
+        "health_category": "high_calorie",
+        "searchable_text": "carrot and cashew nut roast ['time-to-make', 'course', 'preparation', 'main-dish', 'oven', 'vegan', 'vegetarian', 'dietary', 'low-cholesterol', 'healthy-2', 'low-in-something', 'equipment', '4-hours-or-less'] {'': [('medium onions, chopped', '2  time(s) '), ('garlic cloves, chopped', '2  time(s) '), ('olive oil', '1  time(s) tablespoon '), ('water.)', '4  time(s) medium carrots, cooked. (retain cooking '), ('cashew nuts', '1 1/2 time(s) cups '), ('whole wheat bread crumbs (vegan if desired)', '2  time(s) cups '), ('tahini', '1  time(s) tablespoon '), ('caraway seeds', '1 1/2 time(s) teaspoons '), ('tamari or 1 tablespoon other $template2$', '1  time(s) tablespoon '), ('red wine vinegar)', '0.5 time(s) lemon, juice of (or 2 tablespoons '), ('water (from carrots if you kept it.)', '5  time(s) tablespoons '), ('salt & freshly ground black pepper', ' time(s) ')]}",
+        "relevance_score": 0.12540007088860328
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Show me a low-sugar dessert",
+    "answer": "Based on the recipes provided, the low-sugar dessert option would be the \"Strawberries with Yogurt and Lavender Sugar\". This recipe has only 41.7 calories and is described as low-calorie, low-carb, and healthy. The other recipes like the Strawberry Pretzel Salad and Fresh Berry Syrup are higher in sugar and calories.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 461661,
+        "title": "strawberry pretzel salad",
+        "tags": "",
+        "ingredients": "{'': [('pretzels, coarsely crushed', '2  time(s) cups '), ('sugar', '4  time(s) tablespoons '), ('sugar', '1  time(s) cup '), ('strawberry jell-o gelatin dessert', '6  time(s) ounces '), ('butter, melted', '0.75 time(s) cup '), ('cream cheese, softened', '1 time(s) (8 ounce) '), ('cool whip', '8  time(s) ounces '), ('frozen strawberries', '2 time(s) (10 ounce) ')]}",
+        "duration": 31.0,
+        "calories": 1565.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "strawberry pretzel salad  {'': [('pretzels, coarsely crushed', '2  time(s) cups '), ('sugar', '4  time(s) tablespoons '), ('sugar', '1  time(s) cup '), ('strawberry jell-o gelatin dessert', '6  time(s) ounces '), ('butter, melted', '0.75 time(s) cup '), ('cream cheese, softened', '1 time(s) (8 ounce) '), ('cool whip', '8  time(s) ounces '), ('frozen strawberries', '2 time(s) (10 ounce) ')]}",
+        "relevance_score": 0.1980989111803771
+      },
+      {
+        "recipe_id": 228392,
+        "title": "strawberries with yogurt and lavender sugar",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', 'low-protein', 'healthy', '5-ingredients-or-less', 'breakfast', 'lunch', 'eggs-dairy', 'fruit', 'easy', 'low-fat', 'spring', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'number-of-servings']",
+        "ingredients": "{'': [('strawberry, hulled and sliced', '0.5 time(s) cup '), ('plain yogurt', '2  time(s) tablespoons '), ('lavender sugar, approximately', '0.75 time(s) teaspoon '), ('mint leaf (optional)', '1 -2  time(s) ')]}",
+        "duration": 3.0,
+        "calories": 41.7,
+        "health_category": "low_calorie",
+        "searchable_text": "strawberries with yogurt and lavender sugar ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'for-1-or-2', 'low-protein', 'healthy', '5-ingredients-or-less', 'breakfast', 'lunch', 'eggs-dairy', 'fruit', 'easy', 'low-fat', 'spring', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'number-of-servings'] {'': [('strawberry, hulled and sliced', '0.5 time(s) cup '), ('plain yogurt', '2  time(s) tablespoons '), ('lavender sugar, approximately', '0.75 time(s) teaspoon '), ('mint leaf (optional)', '1 -2  time(s) ')]}",
+        "relevance_score": 0.18058458623955256
+      },
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings']",
+        "ingredients": "{'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "duration": 35.0,
+        "calories": 736.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "fresh berry syrup ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'low-protein', 'healthy', '5-ingredients-or-less', 'beverages', 'breakfast', 'desserts', 'fruit', 'easy', 'low-fat', 'summer', 'dietary', 'low-sodium', 'low-cholesterol', 'seasonal', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', 'berries', 'brunch', 'number-of-servings'] {'': [('$template2$ or 4 1/2 cups $template3$', '4 1/2 time(s) 4 1/2 cups '), ('sugar', '1  time(s) cup '), ('water', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.173886860947159
+      },
+      {
+        "recipe_id": 269233,
+        "title": "glazed whole beets",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'low-fat', 'dietary', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', '3-steps-or-less']",
+        "ingredients": "{'': [('of whole canned beets', '3 time(s) (15 ounce) cans '), ('sugar', '4  time(s) teaspoons '), ('all-purpose flour', '1  time(s) tablespoon '), ('salt', '0.25 time(s) teaspoon '), ('cider vinegar', '1  time(s) tablespoon ')]}",
+        "duration": 15.0,
+        "calories": 81.8,
+        "health_category": "low_calorie",
+        "searchable_text": "glazed whole beets ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'side-dishes', 'vegetables', 'easy', 'low-fat', 'dietary', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', '3-steps-or-less'] {'': [('of whole canned beets', '3 time(s) (15 ounce) cans '), ('sugar', '4  time(s) teaspoons '), ('all-purpose flour', '1  time(s) tablespoon '), ('salt', '0.25 time(s) teaspoon '), ('cider vinegar', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.17078310054117415
+      },
+      {
+        "recipe_id": 183491,
+        "title": "apricot fizz",
+        "tags": "['time-to-make', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'easy', 'low-fat', 'vegan', 'vegetarian', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', '4-hours-or-less']",
+        "ingredients": "{'': [('apricot nectar', '2 time(s) (12 ounce) cans '), ('ginger ale', '2 time(s) (12 ounce) cans '), ('lemon juice, for rims', ' time(s) '), ('sugar, for rims', ' time(s) ')]}",
+        "duration": 190.0,
+        "calories": 167.6,
+        "health_category": "low_calorie",
+        "searchable_text": "apricot fizz ['time-to-make', 'preparation', 'low-protein', 'healthy', '5-ingredients-or-less', 'easy', 'low-fat', 'vegan', 'vegetarian', 'dietary', 'low-sodium', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'healthy-2', 'low-in-something', '4-hours-or-less'] {'': [('apricot nectar', '2 time(s) (12 ounce) cans '), ('ginger ale', '2 time(s) (12 ounce) cans '), ('lemon juice, for rims', ' time(s) '), ('sugar, for rims', ' time(s) ')]}",
+        "relevance_score": 0.16159811078986402
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What's a good appetizer?",
+    "answer": "Unfortunately, the recipes provided in the context do not include any appetizer recipes. The recipes cover items like a flourless chocolate cake, homemade bread, chicken and mushroom scaloppine, potato salad, and a croque monsieur sandwich - all of which are more suitable as main dishes or desserts rather than appetizers. Without any appetizer recipes listed, I don't have enough information to recommend a good appetizer option.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "tags": "",
+        "ingredients": "{'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "duration": 70.0,
+        "calories": 214.2,
+        "health_category": "moderate",
+        "searchable_text": "flourless chocolate cake  {'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.19328376835081565
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "tags": "['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less']",
+        "ingredients": "{'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "duration": 210.0,
+        "calories": 1705.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "good bread ['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less'] {'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "relevance_score": 0.1585954853248095
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "tags": "",
+        "ingredients": "{'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "duration": 45.0,
+        "calories": 735.1,
+        "health_category": "very_high_calorie",
+        "searchable_text": "chef joey's chicken and mushroom scaloppine  for two  {'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "relevance_score": 0.13814808823343638
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "tags": "",
+        "ingredients": "{'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "duration": 40.0,
+        "calories": 255.9,
+        "health_category": "moderate",
+        "searchable_text": "beaumont ranch potato salad  {'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "relevance_score": 0.12848473068113805
+      },
+      {
+        "recipe_id": 266495,
+        "title": "rachael ray\u2019s croque monsieur",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'lunch', 'dietary', 'sandwiches', 'high-calcium', 'high-in-something']",
+        "ingredients": "{'': [('unsalted butter, salted', '4  time(s) tablespoons '), ('all-purpose flour', '2  time(s) tablespoons '), ('half-and-half or 1 cup whole milk', '1  time(s) cup '), ('dijon mustard', '1  time(s) teaspoon '), ('freshly grated nutmeg', '0.125 time(s) teaspoon '), ('salt', ' time(s) '), ('fresh ground black pepper', ' time(s) '), ('slices bread', '8  time(s) '), ('baked ham, thinly sliced (virginia ham is good)', '0.75 time(s) lb '), ('shredded gruyere cheese', '2  time(s) cups ')]}",
+        "duration": 40.0,
+        "calories": 775.0,
+        "health_category": "very_high_calorie",
+        "searchable_text": "rachael ray\u2019s croque monsieur ['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'lunch', 'dietary', 'sandwiches', 'high-calcium', 'high-in-something'] {'': [('unsalted butter, salted', '4  time(s) tablespoons '), ('all-purpose flour', '2  time(s) tablespoons '), ('half-and-half or 1 cup whole milk', '1  time(s) cup '), ('dijon mustard', '1  time(s) teaspoon '), ('freshly grated nutmeg', '0.125 time(s) teaspoon '), ('salt', ' time(s) '), ('fresh ground black pepper', ' time(s) '), ('slices bread', '8  time(s) '), ('baked ham, thinly sliced (virginia ham is good)', '0.75 time(s) lb '), ('shredded gruyere cheese', '2  time(s) cups ')]}",
+        "relevance_score": 0.1249050772650412
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Give me a recipe with rice",
+    "answer": "Based on the recipes provided, here is a recipe that contains rice:\n\nRecipe 1: Mexican Rice and Beef\nThis recipe includes brown rice as one of the main ingredients, along with ground beef, salsa, and black beans. It's an easy one-dish meal that can be prepared in about 35 minutes.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 329514,
+        "title": "mexican rice and beef",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'rice', 'easy', 'beginner-cook', 'one-dish-meal', 'inexpensive', 'pasta-rice-and-grains']",
+        "ingredients": "{'': [('morningstar farms meal starters grillers recipe crumbles or 1 lb ground beef', '12  time(s) ounces '), ('brown rice', '1  time(s) cup '), ('water', '2  time(s) cups '), ('chili powder', '1  time(s) tablespoon '), ('jar medium hot salsa', '1 time(s) (15 ounce) '), ('black beans, drained', '1 time(s) (15 ounce) can '), ('frozen corn', '1  time(s) cup '), ('2% cheddar cheese, shredded', '2  time(s) cups ')]}",
+        "duration": 35.0,
+        "calories": 285.8,
+        "health_category": "moderate",
+        "searchable_text": "mexican rice and beef ['60-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'main-dish', 'rice', 'easy', 'beginner-cook', 'one-dish-meal', 'inexpensive', 'pasta-rice-and-grains'] {'': [('morningstar farms meal starters grillers recipe crumbles or 1 lb ground beef', '12  time(s) ounces '), ('brown rice', '1  time(s) cup '), ('water', '2  time(s) cups '), ('chili powder', '1  time(s) tablespoon '), ('jar medium hot salsa', '1 time(s) (15 ounce) '), ('black beans, drained', '1 time(s) (15 ounce) can '), ('frozen corn', '1  time(s) cup '), ('2% cheddar cheese, shredded', '2  time(s) cups ')]}",
+        "relevance_score": 0.2579350132120014
+      },
+      {
+        "recipe_id": 186219,
+        "title": "tequila fried rice",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'side-dishes', 'rice', 'pasta-rice-and-grains', 'white-rice']",
+        "ingredients": "{'': [('olive oil', '1  time(s) tablespoon '), ('medium onion, chopped', '1  time(s) '), ('garlic clove, minced', '1  time(s) '), ('tequila', '2  time(s) tablespoons '), ('lime juice', '2  time(s) tablespoons '), ('cooked rice', '2  time(s) cups '), ('parsley, chopped', '0.25 time(s) cup ')]}",
+        "duration": 15.0,
+        "calories": 166.7,
+        "health_category": "low_calorie",
+        "searchable_text": "tequila fried rice ['15-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'side-dishes', 'rice', 'pasta-rice-and-grains', 'white-rice'] {'': [('olive oil', '1  time(s) tablespoon '), ('medium onion, chopped', '1  time(s) '), ('garlic clove, minced', '1  time(s) '), ('tequila', '2  time(s) tablespoons '), ('lime juice', '2  time(s) tablespoons '), ('cooked rice', '2  time(s) cups '), ('parsley, chopped', '0.25 time(s) cup ')]}",
+        "relevance_score": 0.2174302939888617
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.20103488089514227
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.1945140874845752
+      },
+      {
+        "recipe_id": 184491,
+        "title": "cherry almond rice pudding",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'breakfast', 'desserts', 'eggs-dairy', 'rice', 'easy', 'puddings-and-mousses', 'pasta-rice-and-grains', 'white-rice', '3-steps-or-less']",
+        "ingredients": "{'': [('rice', '1  time(s) cup '), ('salt', '0.5 time(s) teaspoon '), ('evaporated skim milk', '1 time(s) (12 ounce) can '), ('brown sugar', '0.3333333333333333 time(s) cup '), ('orange zest', '0.5 time(s) teaspoon '), ('milk', '0.5 time(s) cup '), ('vanilla extract', '0.5 time(s) teaspoon '), ('almond extract', '0.125 time(s) teaspoon '), ('dried cherries', '0.5 time(s) cup '), ('slivered almonds, toasted', '0.25 time(s) cup ')]}",
+        "duration": 20.0,
+        "calories": 371.6,
+        "health_category": "moderate",
+        "searchable_text": "cherry almond rice pudding ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'breakfast', 'desserts', 'eggs-dairy', 'rice', 'easy', 'puddings-and-mousses', 'pasta-rice-and-grains', 'white-rice', '3-steps-or-less'] {'': [('rice', '1  time(s) cup '), ('salt', '0.5 time(s) teaspoon '), ('evaporated skim milk', '1 time(s) (12 ounce) can '), ('brown sugar', '0.3333333333333333 time(s) cup '), ('orange zest', '0.5 time(s) teaspoon '), ('milk', '0.5 time(s) cup '), ('vanilla extract', '0.5 time(s) teaspoon '), ('almond extract', '0.125 time(s) teaspoon '), ('dried cherries', '0.5 time(s) cup '), ('slivered almonds, toasted', '0.25 time(s) cup ')]}",
+        "relevance_score": 0.16777718444264608
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Show me a seafood dish",
+    "answer": "Based on the recipes provided, here is a seafood dish option:\n\nThe \"Ceviche de Gringo\" recipe is a seafood dish made with bay scallops, shrimp, and firm white fish such as snapper, grouper, tilapia, mahi, or shark. It is a cold, no-cook ceviche dish with a Mexican/South American flavor profile.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 249377,
+        "title": "ceviche de gringo",
+        "tags": "['lactose', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'very-low-carbs', 'appetizers', 'main-dish', 'seafood', 'vegetables', 'mexican', 'easy', 'no-cook', 'beginner-cook', 'diabetic', 'dinner-party', 'heirloom-historical', 'holiday-event', 'dips', 'south-american', 'dietary', 'one-dish-meal', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'free-of-something', 'low-in-something', 'shellfish', 'presentation', 'served-cold', 'technique', '4-hours-or-less']",
+        "ingredients": "{'seafood': [('bay scallops if sea 1/4 them or 1/2 lb $template2$ if sea 1/4 them', '/ time(s) lb '), ('shrimp, uncooked', '/ time(s) lb '), ('this because im a gringo snapper or grouper is best or if your poor tilapia, mahi, or shark.', '1 time(s) lb firm white fish fillet, and im not saying '), ('aromatics & spices', ' time(s) '), ('bunch cilantro, if your not sure add less then add more if needed', '/ time(s) '), ('red onion, washed with lime and 1 tsp. salt soak 10 min. then rinse juice', '1 time(s) '), ('2 -3 jalapenos or 1 habanero pepper, seeded', '2 -3 time(s) '), ('tomatoes', '1 -2 time(s) '), ('celery rib', '1 -2 time(s) '), ('garlic clove', '1 -2 time(s) '), ('limes, juice of squeeze all the juice', '8 -10 time(s) '), ('olive oil', '3 time(s) tablespoons '), ('salt & pepper', ' time(s) '), ('avocado, if you like them i think they are gross cut them the same size as the seafood optional', ' time(s) '), ('corn, off the cob optional', '/ time(s) cup '), ('cooked octopus optional', '/ time(s) lb '), ('squid, uncooked optional', '/ time(s) lb ')]}",
+        "duration": 70.0,
+        "calories": 225.6,
+        "health_category": "moderate",
+        "searchable_text": "ceviche de gringo ['lactose', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'very-low-carbs', 'appetizers', 'main-dish', 'seafood', 'vegetables', 'mexican', 'easy', 'no-cook', 'beginner-cook', 'diabetic', 'dinner-party', 'heirloom-historical', 'holiday-event', 'dips', 'south-american', 'dietary', 'one-dish-meal', 'low-sodium', 'low-saturated-fat', 'low-calorie', 'low-carb', 'free-of-something', 'low-in-something', 'shellfish', 'presentation', 'served-cold', 'technique', '4-hours-or-less'] {'seafood': [('bay scallops if sea 1/4 them or 1/2 lb $template2$ if sea 1/4 them', '/ time(s) lb '), ('shrimp, uncooked', '/ time(s) lb '), ('this because im a gringo snapper or grouper is best or if your poor tilapia, mahi, or shark.', '1 time(s) lb firm white fish fillet, and im not saying '), ('aromatics & spices', ' time(s) '), ('bunch cilantro, if your not sure add less then add more if needed', '/ time(s) '), ('red onion, washed with lime and 1 tsp. salt soak 10 min. then rinse juice', '1 time(s) '), ('2 -3 jalapenos or 1 habanero pepper, seeded', '2 -3 time(s) '), ('tomatoes', '1 -2 time(s) '), ('celery rib', '1 -2 time(s) '), ('garlic clove', '1 -2 time(s) '), ('limes, juice of squeeze all the juice', '8 -10 time(s) '), ('olive oil', '3 time(s) tablespoons '), ('salt & pepper', ' time(s) '), ('avocado, if you like them i think they are gross cut them the same size as the seafood optional', ' time(s) '), ('corn, off the cob optional', '/ time(s) cup '), ('cooked octopus optional', '/ time(s) lb '), ('squid, uncooked optional', '/ time(s) lb ')]}",
+        "relevance_score": 0.18624926462974845
+      },
+      {
+        "recipe_id": 359569,
+        "title": "trout with caper sauce",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'for-1-or-2', 'main-dish', 'seafood', 'fish', 'freshwater-fish', 'number-of-servings']",
+        "ingredients": "{'': [('whole trout', '2  time(s) '), ('olive oil', '5  time(s) tablespoons '), ('garlic clove (crushed)', '1  time(s) '), ('lemon, juice of', '1  time(s) '), ('capers (crushed)', '4  time(s) ounces '), ('salt and pepper', ' time(s) ')]}",
+        "duration": 16.0,
+        "calories": 319.6,
+        "health_category": "moderate",
+        "searchable_text": "trout with caper sauce ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'for-1-or-2', 'main-dish', 'seafood', 'fish', 'freshwater-fish', 'number-of-servings'] {'': [('whole trout', '2  time(s) '), ('olive oil', '5  time(s) tablespoons '), ('garlic clove (crushed)', '1  time(s) '), ('lemon, juice of', '1  time(s) '), ('capers (crushed)', '4  time(s) ounces '), ('salt and pepper', ' time(s) ')]}",
+        "relevance_score": 0.15281484386154312
+      },
+      {
+        "recipe_id": 270855,
+        "title": "tilapia with creamy leeks",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'main-dish', 'seafood', 'vegetables', 'american', 'easy', 'fish', 'freshwater-fish', 'tilapia']",
+        "ingredients": "{'': [('sour cream', '0.5 time(s) cup '), ('flour', '1 1/2 time(s) teaspoons '), ('medium leeks, thinly sliced (white and pale green parts only)', '2  time(s) '), ('unsalted butter', '2  time(s) tablespoons '), ('water, divided', '0.6666666666666666 time(s) cup '), ('salt', '0.5 time(s) teaspoon '), ('pepper', '0.25 time(s) teaspoon '), ('tilapia fillets', '4 time(s) (6 ounce) '), ('dill, chopped', '1  time(s) tablespoon ')]}",
+        "duration": 30.0,
+        "calories": 306.5,
+        "health_category": "moderate",
+        "searchable_text": "tilapia with creamy leeks ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'main-dish', 'seafood', 'vegetables', 'american', 'easy', 'fish', 'freshwater-fish', 'tilapia'] {'': [('sour cream', '0.5 time(s) cup '), ('flour', '1 1/2 time(s) teaspoons '), ('medium leeks, thinly sliced (white and pale green parts only)', '2  time(s) '), ('unsalted butter', '2  time(s) tablespoons '), ('water, divided', '0.6666666666666666 time(s) cup '), ('salt', '0.5 time(s) teaspoon '), ('pepper', '0.25 time(s) teaspoon '), ('tilapia fillets', '4 time(s) (6 ounce) '), ('dill, chopped', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.11636418847076538
+      },
+      {
+        "recipe_id": 96550,
+        "title": "jambalaya style chicken and shrimp",
+        "tags": "['time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'healthy', 'main-dish', 'poultry', 'seafood', 'american', 'southern-united-states', 'low-fat', 'shrimp', 'chicken', 'crock-pot-slow-cooker', 'creole', 'dietary', 'one-dish-meal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'meat', 'shellfish', 'equipment']",
+        "ingredients": "{'': [('sliced celery', '1  time(s) cup '), ('large onion, chopped', '1  time(s) '), ('tomatoes, cut up', '1 time(s) (14 1/2 ounce) can '), ('low sodium chicken broth', '1 time(s) (14 ounce) can '), ('tomato paste', '0.3333333333333333 time(s) cup '), ('worcestershire sauce', '1  time(s) tablespoon '), ('cajun seasoning, to taste', '1 1/2-4  time(s) teaspoons '), ('boneless skinless chicken breast halves or 1 lb $template2$, cut into 3/4 inch pieces', '1  time(s) lb '), ('instant rice', '1 1/2 time(s) cups '), ('peeled and deveined cooked shrimp', '0.75 time(s) lb '), ('chopped green bell pepper', '0.75 time(s) cup ')]}",
+        "duration": 390.0,
+        "calories": 297.5,
+        "health_category": "moderate",
+        "searchable_text": "jambalaya style chicken and shrimp ['time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'north-american', 'healthy', 'main-dish', 'poultry', 'seafood', 'american', 'southern-united-states', 'low-fat', 'shrimp', 'chicken', 'crock-pot-slow-cooker', 'creole', 'dietary', 'one-dish-meal', 'low-saturated-fat', 'low-calorie', 'low-carb', 'low-in-something', 'meat', 'shellfish', 'equipment'] {'': [('sliced celery', '1  time(s) cup '), ('large onion, chopped', '1  time(s) '), ('tomatoes, cut up', '1 time(s) (14 1/2 ounce) can '), ('low sodium chicken broth', '1 time(s) (14 ounce) can '), ('tomato paste', '0.3333333333333333 time(s) cup '), ('worcestershire sauce', '1  time(s) tablespoon '), ('cajun seasoning, to taste', '1 1/2-4  time(s) teaspoons '), ('boneless skinless chicken breast halves or 1 lb $template2$, cut into 3/4 inch pieces', '1  time(s) lb '), ('instant rice', '1 1/2 time(s) cups '), ('peeled and deveined cooked shrimp', '0.75 time(s) lb '), ('chopped green bell pepper', '0.75 time(s) cup ')]}",
+        "relevance_score": 0.10874974897751843
+      },
+      {
+        "recipe_id": 512504,
+        "title": "tilapia and vegetable stir fry",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'main-dish', 'seafood', 'low-fat', 'fish', 'dietary', 'one-dish-meal', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'freshwater-fish', 'tilapia']",
+        "ingredients": "{'': [('tilapia fillet, cut into 1 inch chunks', '1  time(s) lb '), ('rice vinegar', '1  time(s) tablespoon '), ('canola oil', '2  time(s) teaspoons '), ('garlic cloves, minced', '3  time(s) '), ('ginger, fresh, peeled, minced', '1  time(s) tablespoon '), ('chinese cabbage, sliced', '4  time(s) cups '), ('broccoli florets', '3  time(s) cups '), ('carrots, thinly sliced', '2  time(s) '), ('red pepper, thinly sliced', '1  time(s) '), ('chicken broth, reduced sodium', '0.75 time(s) cup '), ('soy sauce, reduced sodium', '2  time(s) tablespoons '), ('scallions, thinly sliced', '3  time(s) ')]}",
+        "duration": 21.0,
+        "calories": 201.7,
+        "health_category": "moderate",
+        "searchable_text": "tilapia and vegetable stir fry ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'main-dish', 'seafood', 'low-fat', 'fish', 'dietary', 'one-dish-meal', 'low-cholesterol', 'low-saturated-fat', 'low-calorie', 'low-carb', 'healthy-2', 'low-in-something', 'freshwater-fish', 'tilapia'] {'': [('tilapia fillet, cut into 1 inch chunks', '1  time(s) lb '), ('rice vinegar', '1  time(s) tablespoon '), ('canola oil', '2  time(s) teaspoons '), ('garlic cloves, minced', '3  time(s) '), ('ginger, fresh, peeled, minced', '1  time(s) tablespoon '), ('chinese cabbage, sliced', '4  time(s) cups '), ('broccoli florets', '3  time(s) cups '), ('carrots, thinly sliced', '2  time(s) '), ('red pepper, thinly sliced', '1  time(s) '), ('chicken broth, reduced sodium', '0.75 time(s) cup '), ('soy sauce, reduced sodium', '2  time(s) tablespoons '), ('scallions, thinly sliced', '3  time(s) ')]}",
+        "relevance_score": 0.10830213000236624
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What's a good lunch option?",
+    "answer": "Based on the recipes provided, a good lunch option would be Rachael Ray's Croque Monsieur. This is a classic grilled ham and cheese sandwich that also includes a creamy b\u00e9chamel sauce. At 775 calories per serving, it is a hearty and satisfying lunch choice.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "tags": "",
+        "ingredients": "{'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "duration": 70.0,
+        "calories": 214.2,
+        "health_category": "moderate",
+        "searchable_text": "flourless chocolate cake  {'': [('good quality bittersweet chocolate', '4  time(s) ounces '), ('unsalted butter', '0.5 time(s) cup '), ('sugar', '0.75 time(s) cup '), ('large eggs', '3  time(s) '), ('unsweetened cocoa powder, plus additional for sprinkling', '0.5 time(s) cup ')]}",
+        "relevance_score": 0.15587266360768687
+      },
+      {
+        "recipe_id": 266495,
+        "title": "rachael ray\u2019s croque monsieur",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'lunch', 'dietary', 'sandwiches', 'high-calcium', 'high-in-something']",
+        "ingredients": "{'': [('unsalted butter, salted', '4  time(s) tablespoons '), ('all-purpose flour', '2  time(s) tablespoons '), ('half-and-half or 1 cup whole milk', '1  time(s) cup '), ('dijon mustard', '1  time(s) teaspoon '), ('freshly grated nutmeg', '0.125 time(s) teaspoon '), ('salt', ' time(s) '), ('fresh ground black pepper', ' time(s) '), ('slices bread', '8  time(s) '), ('baked ham, thinly sliced (virginia ham is good)', '0.75 time(s) lb '), ('shredded gruyere cheese', '2  time(s) cups ')]}",
+        "duration": 40.0,
+        "calories": 775.0,
+        "health_category": "very_high_calorie",
+        "searchable_text": "rachael ray\u2019s croque monsieur ['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'lunch', 'dietary', 'sandwiches', 'high-calcium', 'high-in-something'] {'': [('unsalted butter, salted', '4  time(s) tablespoons '), ('all-purpose flour', '2  time(s) tablespoons '), ('half-and-half or 1 cup whole milk', '1  time(s) cup '), ('dijon mustard', '1  time(s) teaspoon '), ('freshly grated nutmeg', '0.125 time(s) teaspoon '), ('salt', ' time(s) '), ('fresh ground black pepper', ' time(s) '), ('slices bread', '8  time(s) '), ('baked ham, thinly sliced (virginia ham is good)', '0.75 time(s) lb '), ('shredded gruyere cheese', '2  time(s) cups ')]}",
+        "relevance_score": 0.15488363040167094
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "tags": "['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less']",
+        "ingredients": "{'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "duration": 210.0,
+        "calories": 1705.2,
+        "health_category": "very_high_calorie",
+        "searchable_text": "good bread ['time-to-make', 'course', 'preparation', 'healthy', 'breads', 'dietary', 'low-cholesterol', 'healthy-2', 'yeast', 'low-in-something', '4-hours-or-less'] {'': [('yeast', '3  time(s) teaspoons '), ('water, warm', '0.5 time(s) cup '), ('milk, scalded', '1 3/4 time(s) cups '), ('honey', '2  time(s) tablespoons '), ('oil', '2  time(s) tablespoons '), ('flour', '6  time(s) cups '), ('salt', '2  time(s) teaspoons ')]}",
+        "relevance_score": 0.12789848286102887
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "tags": "",
+        "ingredients": "{'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "duration": 45.0,
+        "calories": 735.1,
+        "health_category": "very_high_calorie",
+        "searchable_text": "chef joey's chicken and mushroom scaloppine  for two  {'': [('boneless skinless chicken breasts', '2  time(s) '), ('margarine (vegan earth balance)', '2  time(s) tablespoons '), ('olive oil (extra virgin is best)', '2  time(s) tablespoons '), ('mushrooms (sliced medium)', '6  time(s) '), ('shallots (chopped fine)', '2  time(s) '), ('marsala wine (this is a sweet wine)', '0.25 time(s) cup '), ('stock (chicken or veggie is good)', '0.75 time(s) cup '), ('coffee creamer (plain silk soy is the best)', '1  time(s) cup '), ('salt and pepper (to taste)', ' time(s) ')]}",
+        "relevance_score": 0.11140878858576228
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "tags": "",
+        "ingredients": "{'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "duration": 40.0,
+        "calories": 255.9,
+        "health_category": "moderate",
+        "searchable_text": "beaumont ranch potato salad  {'': [('mix (such as good seasons)', '1 time(s) (2/3 ounce) package dried italian salad dressing '), ('tarragon vinegar', '0.25 time(s) cup '), ('water', '0.25 time(s) cup '), ('extra-virgin olive oil', '1  time(s) cup '), ('chopped celery', '0.5 time(s) cup '), ('bacon bits', '1  time(s) cup '), ('chopped dill pickle (optional)', '0.25 time(s) cup '), ('chopped green onion', '0.25 time(s) cup '), ('mayonnaise', '3  time(s) cups ')]}",
+        "relevance_score": 0.10361582545221915
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Give me a baked recipe",
+    "answer": "Based on the recipes provided, the only baked recipe is the Baked Egg Custard recipe (Recipe 4). This recipe is a simple baked egg custard that takes 15 minutes to prepare.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.1769438592581259
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.17120448534274793
+      },
+      {
+        "recipe_id": 75315,
+        "title": "quick baked beans with bacon",
+        "tags": "",
+        "ingredients": "{'': [('slices bacon, cut into 3/4 inch pieces', '6  time(s) '), ('onions, peeled and chopped (1 pound)', '2  time(s) '), ('boston-style baked beans', '3 time(s) (28 ounce) cans '), ('catsup', '0.5 time(s) cup '), ('firmly packed brown sugar', '2  time(s) tablespoons '), ('dry mustard', '1  time(s) tablespoon ')]}",
+        "duration": 60.0,
+        "calories": 322.6,
+        "health_category": "moderate",
+        "searchable_text": "quick baked beans with bacon  {'': [('slices bacon, cut into 3/4 inch pieces', '6  time(s) '), ('onions, peeled and chopped (1 pound)', '2  time(s) '), ('boston-style baked beans', '3 time(s) (28 ounce) cans '), ('catsup', '0.5 time(s) cup '), ('firmly packed brown sugar', '2  time(s) tablespoons '), ('dry mustard', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.16489087453684834
+      },
+      {
+        "recipe_id": 269983,
+        "title": "baked egg custard",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'preparation', 'dietary', 'low-sodium', 'low-in-something']",
+        "ingredients": "{'': [('eggs', '3 time(s) '), ('sugar', '0.5 time(s) cup '), ('salt', '0.25 time(s) teaspoon '), ('nutmeg', '1  time(s) teaspoon '), ('vanilla', '0.5 time(s) teaspoon '), ('milk', '2  time(s) cups ')]}",
+        "duration": 15.0,
+        "calories": 156.4,
+        "health_category": "low_calorie",
+        "searchable_text": "baked egg custard ['15-minutes-or-less', 'time-to-make', 'preparation', 'dietary', 'low-sodium', 'low-in-something'] {'': [('eggs', '3 time(s) '), ('sugar', '0.5 time(s) cup '), ('salt', '0.25 time(s) teaspoon '), ('nutmeg', '1  time(s) teaspoon '), ('vanilla', '0.5 time(s) teaspoon '), ('milk', '2  time(s) cups ')]}",
+        "relevance_score": 0.12979193347169174
+      },
+      {
+        "recipe_id": 453412,
+        "title": "creamy butterscotch pudding recipe from toh",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch']",
+        "ingredients": "{'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "duration": 25.0,
+        "calories": 216.0,
+        "health_category": "moderate",
+        "searchable_text": "creamy butterscotch pudding recipe from toh ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch'] {'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "relevance_score": 0.11473036429876488
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Show me a recipe with eggs",
+    "answer": "Based on the recipes provided, the one that contains eggs is the \"Creamy Butterscotch Pudding Recipe from TOH\". This recipe calls for 2 egg yolks that are lightly beaten.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.21031324979574056
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.20349150201089558
+      },
+      {
+        "recipe_id": 453412,
+        "title": "creamy butterscotch pudding recipe from toh",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch']",
+        "ingredients": "{'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "duration": 25.0,
+        "calories": 216.0,
+        "health_category": "moderate",
+        "searchable_text": "creamy butterscotch pudding recipe from toh ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch'] {'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "relevance_score": 0.16869644296073474
+      },
+      {
+        "recipe_id": 374943,
+        "title": "stuffed shells",
+        "tags": "",
+        "ingredients": "{'recipe ingredients': [('box jumbo pasta shells (about 18 shells)', '0.5 time(s) (12 ounce) '), ('salt', '1  time(s) teaspoon '), ('container ricotta cheese', '1 time(s) (15 ounce) '), ('large eggs', '2  time(s) '), ('grated parmesan cheese', '1  time(s) cup '), ('grated mozzarella cheese', '2  time(s) cups '), ('dried) or 2 tablespoons $template2$ (or 2 teaspoons dried)', '2  time(s) tablespoons chopped fresh parsley (or 2 teaspoons '), ('jar italian pasta sauce', '1 time(s) (26 ounce) ')]}",
+        "duration": 50.0,
+        "calories": 533.9,
+        "health_category": "high_calorie",
+        "searchable_text": "stuffed shells  {'recipe ingredients': [('box jumbo pasta shells (about 18 shells)', '0.5 time(s) (12 ounce) '), ('salt', '1  time(s) teaspoon '), ('container ricotta cheese', '1 time(s) (15 ounce) '), ('large eggs', '2  time(s) '), ('grated parmesan cheese', '1  time(s) cup '), ('grated mozzarella cheese', '2  time(s) cups '), ('dried) or 2 tablespoons $template2$ (or 2 teaspoons dried)', '2  time(s) tablespoons chopped fresh parsley (or 2 teaspoons '), ('jar italian pasta sauce', '1 time(s) (26 ounce) ')]}",
+        "relevance_score": 0.1358620097593945
+      },
+      {
+        "recipe_id": 107408,
+        "title": "kelly's not-so-secret recipe",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'desserts', 'easy', 'holiday-event', 'kid-friendly', 'candy', 'dietary', 'gifts', 'number-of-servings']",
+        "ingredients": "{'': [('small pretzels', '24  time(s) '), ('rolo chocolates, unwrapped', '24  time(s) '), ('halves', '24  time(s) pecan ')]}",
+        "duration": 15.0,
+        "calories": 247.9,
+        "health_category": "moderate",
+        "searchable_text": "kelly's not-so-secret recipe ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'desserts', 'easy', 'holiday-event', 'kid-friendly', 'candy', 'dietary', 'gifts', 'number-of-servings'] {'': [('small pretzels', '24  time(s) '), ('rolo chocolates, unwrapped', '24  time(s) '), ('halves', '24  time(s) pecan ')]}",
+        "relevance_score": 0.13435277871356985
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "What's a comfort food recipe?",
+    "answer": "Based on the recipes provided, the comfort food recipe is the Aunt Emy's Baking Powder Biscuits. This recipe is tagged as \"comfort food\" and is described as a classic biscuit recipe, which are often considered a comforting and homey dish.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.14971367811217706
+      },
+      {
+        "recipe_id": 239601,
+        "title": "marie callender's cornbread",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', 'breads', 'side-dishes', 'easy', 'copycat', 'comfort-food', 'quick-breads', 'novelty', 'taste-mood', 'sweet']",
+        "ingredients": "{'': [('bisquick baking mix', '2  time(s) cups '), ('cornmeal', '0.5 time(s) cup '), ('sugar', '0.5 time(s) cup '), ('real butter, melted', '0.5 time(s) cup '), ('large eggs', '2  time(s) '), ('milk', '1  time(s) cup ')]}",
+        "duration": 40.0,
+        "calories": 312.9,
+        "health_category": "moderate",
+        "searchable_text": "marie callender's cornbread ['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', 'breads', 'side-dishes', 'easy', 'copycat', 'comfort-food', 'quick-breads', 'novelty', 'taste-mood', 'sweet'] {'': [('bisquick baking mix', '2  time(s) cups '), ('cornmeal', '0.5 time(s) cup '), ('sugar', '0.5 time(s) cup '), ('real butter, melted', '0.5 time(s) cup '), ('large eggs', '2  time(s) '), ('milk', '1  time(s) cup ')]}",
+        "relevance_score": 0.14933112894902859
+      },
+      {
+        "recipe_id": 279267,
+        "title": "aunt emy's baking powder biscuits",
+        "tags": "['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'breads', 'breakfast', 'easy', 'kid-friendly', 'vegetarian', 'rolls-biscuits', 'dietary', 'comfort-food', 'inexpensive', 'brunch', 'taste-mood']",
+        "ingredients": "{'': [('flour', '3  time(s) cups '), ('crisco', '0.5 time(s) cup '), ('baking powder', '3  time(s) teaspoons '), ('salt', '1  time(s) teaspoon '), ('milk', '1  time(s) cup ')]}",
+        "duration": 50.0,
+        "calories": 202.9,
+        "health_category": "moderate",
+        "searchable_text": "aunt emy's baking powder biscuits ['60-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'breads', 'breakfast', 'easy', 'kid-friendly', 'vegetarian', 'rolls-biscuits', 'dietary', 'comfort-food', 'inexpensive', 'brunch', 'taste-mood'] {'': [('flour', '3  time(s) cups '), ('crisco', '0.5 time(s) cup '), ('baking powder', '3  time(s) teaspoons '), ('salt', '1  time(s) teaspoon '), ('milk', '1  time(s) cup ')]}",
+        "relevance_score": 0.14613380070867382
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.14485754587602623
+      },
+      {
+        "recipe_id": 18500,
+        "title": "boneless buffalo bites",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'for-1-or-2', 'very-low-carbs', 'appetizers', 'lunch', 'poultry', 'american', 'easy', 'beginner-cook', 'dinner-party', 'finger-food', 'kid-friendly', 'chicken', 'stove-top', 'dietary', 'spicy', 'comfort-food', 'low-carb', 'low-in-something', 'meat', 'chicken-breasts', 'taste-mood', 'equipment', 'number-of-servings', 'presentation']",
+        "ingredients": "{'': [('chicken breasts', '3  time(s) '), ('flour (to toss)', ' time(s) '), ('cayenne pepper', ' time(s) '), ('salt', ' time(s) '), ('butter', '0.3333333333333333 time(s) cup '), (\"frank's red hot sauce\", '0.5 time(s) cup '), ('garlic', '1  time(s) teaspoon '), ('oil (to fry)', ' time(s) ')]}",
+        "duration": 30.0,
+        "calories": 653.4,
+        "health_category": "very_high_calorie",
+        "searchable_text": "boneless buffalo bites ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'cuisine', 'preparation', 'occasion', 'north-american', 'for-1-or-2', 'very-low-carbs', 'appetizers', 'lunch', 'poultry', 'american', 'easy', 'beginner-cook', 'dinner-party', 'finger-food', 'kid-friendly', 'chicken', 'stove-top', 'dietary', 'spicy', 'comfort-food', 'low-carb', 'low-in-something', 'meat', 'chicken-breasts', 'taste-mood', 'equipment', 'number-of-servings', 'presentation'] {'': [('chicken breasts', '3  time(s) '), ('flour (to toss)', ' time(s) '), ('cayenne pepper', ' time(s) '), ('salt', ' time(s) '), ('butter', '0.3333333333333333 time(s) cup '), (\"frank's red hot sauce\", '0.5 time(s) cup '), ('garlic', '1  time(s) teaspoon '), ('oil (to fry)', ' time(s) ')]}",
+        "relevance_score": 0.13761489788723724
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  },
+  {
+    "query": "Give me a spicy recipe",
+    "answer": "Based on the recipes provided, the Southwest Spicy Fish Sandwich recipe from Recipe 3 seems to be the spiciest option. It contains chipotle peppers in adobo sauce, which would give the sandwich a spicy kick. The other recipes do not appear to contain any particularly spicy ingredients.",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "tags": "",
+        "ingredients": "{'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "duration": 900.0,
+        "calories": 135.4,
+        "health_category": "low_calorie",
+        "searchable_text": "chili frijoles - mexican beans  {'': [('pinto beans or 1 cup $template2$', '1  time(s) cup '), ('large onion, peeled and sliced', '1  time(s) '), ('chili powder (store bought, your own recipe or $notetemplate1$)', '1  time(s) tablespoon '), ('slices bacon, chopped', '3  time(s) '), ('garlic clove, peeled and chopped', '1  time(s) ')], 'sauce': [('tomatoes, cooked canned is fine', '2 time(s) cups '), ('onions, peeled and finely chopped', '2 time(s) '), ('chili powder store bought, your own recipe or $notetemplate1$', '1 time(s) teaspoon '), ('salt', '/ time(s) teaspoon ')]}",
+        "relevance_score": 0.18288724155445518
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "tags": "",
+        "ingredients": "{'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "duration": NaN,
+        "calories": 383.7,
+        "health_category": "moderate",
+        "searchable_text": "chickoo halwa recipe  {'': [('chickoos (sapote)', '6  time(s) '), ('milk', '0.5 time(s) cup '), ('sugar', '1/4-1/ time(s) cup '), ('khoya paste (whole milk, ghee and water)', '150  time(s) g '), ('drops cochineal (essence)', '2 -3  time(s) '), ('ghee', '1  time(s) tablespoon ')]}",
+        "relevance_score": 0.17695508732184162
+      },
+      {
+        "recipe_id": 434639,
+        "title": "southwest spicy fish sandwich",
+        "tags": "['weeknight', '30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'lunch', 'seafood', 'fish', 'sandwiches', 'freshwater-fish', 'tilapia']",
+        "ingredients": "{'': [('tilapia fillets', '4  time(s) '), ('large hamburger buns with sesame seeds', '4  time(s) '), ('large leaves romaine lettuce', '4  time(s) '), ('cheddar cheese', '4  time(s) ounces '), ('chipotle mayonnaise (recipe below)', '4  time(s) tablespoons '), ('chipotle pepper, in adobe sauce (used to make chipotle mayo)', ' time(s) '), ('soft butter', '1  time(s) tablespoon '), (\"emeril's southwest seasoning (or see $notetemplate1$)\", '1  time(s) tablespoon '), ('extra virgin olive oil', '2  time(s) tablespoons ')]}",
+        "duration": 26.0,
+        "calories": 483.3,
+        "health_category": "high_calorie",
+        "searchable_text": "southwest spicy fish sandwich ['weeknight', '30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'occasion', 'lunch', 'seafood', 'fish', 'sandwiches', 'freshwater-fish', 'tilapia'] {'': [('tilapia fillets', '4  time(s) '), ('large hamburger buns with sesame seeds', '4  time(s) '), ('large leaves romaine lettuce', '4  time(s) '), ('cheddar cheese', '4  time(s) ounces '), ('chipotle mayonnaise (recipe below)', '4  time(s) tablespoons '), ('chipotle pepper, in adobe sauce (used to make chipotle mayo)', ' time(s) '), ('soft butter', '1  time(s) tablespoon '), (\"emeril's southwest seasoning (or see $notetemplate1$)\", '1  time(s) tablespoon '), ('extra virgin olive oil', '2  time(s) tablespoons ')]}",
+        "relevance_score": 0.13338690743628534
+      },
+      {
+        "recipe_id": 453412,
+        "title": "creamy butterscotch pudding recipe from toh",
+        "tags": "['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch']",
+        "ingredients": "{'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "duration": 25.0,
+        "calories": 216.0,
+        "health_category": "moderate",
+        "searchable_text": "creamy butterscotch pudding recipe from toh ['30-minutes-or-less', 'time-to-make', 'course', 'main-ingredient', 'preparation', 'healthy', 'desserts', 'eggs-dairy', 'low-fat', 'dietary', 'low-sodium', 'low-in-something', 'from-scratch'] {'': [('dark brown sugar, packed', '0.5 time(s) cup '), ('cornstarch', '2  time(s) tablespoons '), ('salt', '0.125 time(s) teaspoon '), ('nonfat milk', '2  time(s) cups '), ('yolks, lightly beaten', '2  time(s) egg '), ('butter', '1  time(s) tablespoon '), ('vanilla extract', '1 1/2 time(s) teaspoons ')]}",
+        "relevance_score": 0.11858405223619113
+      },
+      {
+        "recipe_id": 107408,
+        "title": "kelly's not-so-secret recipe",
+        "tags": "['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'desserts', 'easy', 'holiday-event', 'kid-friendly', 'candy', 'dietary', 'gifts', 'number-of-servings']",
+        "ingredients": "{'': [('small pretzels', '24  time(s) '), ('rolo chocolates, unwrapped', '24  time(s) '), ('halves', '24  time(s) pecan ')]}",
+        "duration": 15.0,
+        "calories": 247.9,
+        "health_category": "moderate",
+        "searchable_text": "kelly's not-so-secret recipe ['15-minutes-or-less', 'time-to-make', 'course', 'preparation', 'occasion', '5-ingredients-or-less', 'desserts', 'easy', 'holiday-event', 'kid-friendly', 'candy', 'dietary', 'gifts', 'number-of-servings'] {'': [('small pretzels', '24  time(s) '), ('rolo chocolates, unwrapped', '24  time(s) '), ('halves', '24  time(s) pecan ')]}",
+        "relevance_score": 0.11683243503661819
+      }
+    ],
+    "num_recipes_retrieved": 5,
+    "llm_provider": "anthropic",
+    "model": "claude-3-haiku-20240307"
+  }
+]

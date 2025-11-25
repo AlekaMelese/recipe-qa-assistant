@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "query": "Show me a quick vegetarian pasta recipe",
+    "expected_characteristics": ["vegetarian", "pasta", "quick preparation"],
+    "relevant_tags": ["vegetarian", "pasta", "quick", "easy"]
+  },
+  {
+    "id": 2,
+    "query": "List two low-calorie dinners",
+    "expected_characteristics": ["low calories", "dinner", "healthy"],
+    "relevant_tags": ["low-calorie", "dinner", "healthy", "light"]
+  },
+  {
+    "id": 3,
+    "query": "What's a healthy breakfast option?",
+    "expected_characteristics": ["breakfast", "healthy", "nutritious"],
+    "relevant_tags": ["breakfast", "healthy", "nutritious", "morning"]
+  },
+  {
+    "id": 4,
+    "query": "Suggest a chocolate dessert",
+    "expected_characteristics": ["chocolate", "dessert", "sweet"],
+    "relevant_tags": ["chocolate", "dessert", "sweet", "treats"]
+  },
+  {
+    "id": 5,
+    "query": "Give me a high-protein meal",
+    "expected_characteristics": ["high protein", "protein-rich"],
+    "relevant_tags": ["protein", "high-protein", "meat", "fitness"]
+  },
+  {
+    "id": 6,
+    "query": "Show me a salad recipe",
+    "expected_characteristics": ["salad", "fresh", "vegetables"],
+    "relevant_tags": ["salad", "vegetables", "fresh", "healthy"]
+  },
+  {
+    "id": 7,
+    "query": "What can I make with chicken?",
+    "expected_characteristics": ["chicken", "poultry"],
+    "relevant_tags": ["chicken", "poultry", "meat"]
+  },
+  {
+    "id": 8,
+    "query": "List recipes under 30 minutes",
+    "expected_characteristics": ["quick", "fast", "under 30 minutes"],
+    "relevant_tags": ["quick", "fast", "easy", "30-minute"]
+  },
+  {
+    "id": 9,
+    "query": "Show me a soup recipe",
+    "expected_characteristics": ["soup", "warm", "comfort food"],
+    "relevant_tags": ["soup", "warm", "comfort"]
+  },
+  {
+    "id": 10,
+    "query": "What's a good side dish?",
+    "expected_characteristics": ["side dish", "accompaniment"],
+    "relevant_tags": ["side", "side-dish", "accompaniment"]
+  },
+  {
+    "id": 11,
+    "query": "Give me a vegan recipe",
+    "expected_characteristics": ["vegan", "plant-based", "no animal products"],
+    "relevant_tags": ["vegan", "plant-based", "vegetarian"]
+  },
+  {
+    "id": 12,
+    "query": "Show me a low-sugar dessert",
+    "expected_characteristics": ["dessert", "low sugar", "sweet but healthy"],
+    "relevant_tags": ["low-sugar", "dessert", "healthy-dessert"]
+  },
+  {
+    "id": 13,
+    "query": "What's a good appetizer?",
+    "expected_characteristics": ["appetizer", "starter", "snack"],
+    "relevant_tags": ["appetizer", "starter", "snack"]
+  },
+  {
+    "id": 14,
+    "query": "Give me a recipe with rice",
+    "expected_characteristics": ["rice", "grain"],
+    "relevant_tags": ["rice", "grain", "carbs"]
+  },
+  {
+    "id": 15,
+    "query": "Show me a seafood dish",
+    "expected_characteristics": ["seafood", "fish", "shellfish"],
+    "relevant_tags": ["seafood", "fish", "shellfish", "ocean"]
+  },
+  {
+    "id": 16,
+    "query": "What's a good lunch option?",
+    "expected_characteristics": ["lunch", "midday meal"],
+    "relevant_tags": ["lunch", "midday", "meal"]
+  },
+  {
+    "id": 17,
+    "query": "Give me a baked recipe",
+    "expected_characteristics": ["baked", "oven"],
+    "relevant_tags": ["baked", "oven", "baking"]
+  },
+  {
+    "id": 18,
+    "query": "Show me a recipe with eggs",
+    "expected_characteristics": ["eggs", "egg-based"],
+    "relevant_tags": ["eggs", "breakfast", "protein"]
+  },
+  {
+    "id": 19,
+    "query": "What's a comfort food recipe?",
+    "expected_characteristics": ["comfort food", "hearty", "satisfying"],
+    "relevant_tags": ["comfort", "hearty", "satisfying"]
+  },
+  {
+    "id": 20,
+    "query": "Give me a spicy recipe",
+    "expected_characteristics": ["spicy", "hot", "flavorful"],
+    "relevant_tags": ["spicy", "hot", "bold-flavors"]
+  }
+]

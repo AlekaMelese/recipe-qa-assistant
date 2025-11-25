@@ -1,0 +1,52 @@
+[
+  {
+    "query": "Show me a quick vegetarian pasta recipe",
+    "baseline_answer": "Based on your search, I found: Southwestern Pasta, Oatmeal Bread, and Stuffed Shells. The first recipe has 296 calories. It takes about 35 minutes to prepare.",
+    "llm_rag_answer": "Based on the recipes provided, the \"southwestern pasta\" recipe appears to be a quick vegetarian pasta option. The key ingredients are wacky mac pasta, minestrone soup, Morningstar Farms veggie crumbles, and black beans. This recipe looks like it can be prepared in about 35 minutes, making it a good choice for a quick vegetarian pasta dish.",
+    "retrieved_recipes": [
+      "southwestern pasta",
+      "oatmeal bread",
+      "stuffed shells"
+    ]
+  },
+  {
+    "query": "List two low-calorie dinners",
+    "baseline_answer": "Based on your search, I found: Fresh Berry Syrup, Glazed Whole Beets, and Lemony Broccoli. The first recipe has 736 calories. It takes about 35 minutes to prepare.",
+    "llm_rag_answer": "Unfortunately, the recipes provided do not include any low-calorie dinner options. The recipes are mostly for beverages, side dishes, and desserts. There are no dinner recipes included in this context. The closest thing would be the \"glazed whole beets\" recipe, which is a low-calorie side dish, but not a full dinner.",
+    "retrieved_recipes": [
+      "fresh berry syrup",
+      "glazed whole beets",
+      "lemony broccoli"
+    ]
+  },
+  {
+    "query": "What's a healthy breakfast option?",
+    "baseline_answer": "Based on your search, I found: Big Breakfast Biscuit Sandwich, Fresh Berry Syrup, and Strawberries With Yogurt And Lavender Sugar. The first recipe has 320 calories. It takes about 13 minutes to prepare.",
+    "llm_rag_answer": "Based on the recipes provided, a healthy breakfast option would be the \"Strawberries with Yogurt and Lavender Sugar\". This recipe is low in calories (41.7 calories), low in fat, and contains healthy ingredients like fresh strawberries and plain yogurt. The recipe also has a short preparation time of only 3 minutes, making it a convenient and nutritious breakfast choice.",
+    "retrieved_recipes": [
+      "big breakfast biscuit sandwich",
+      "fresh berry syrup",
+      "strawberries with yogurt and lavender sugar"
+    ]
+  },
+  {
+    "query": "Suggest a chocolate dessert",
+    "baseline_answer": "Based on your search, I found: Chocolate Truffle Cheesecake (Death By Chocolate!), Strawberry Pretzel Salad, and Half Batch Chocolate Chip Cookies. The first recipe has 539 calories. It takes about 80 minutes to prepare.",
+    "llm_rag_answer": "Based on the recipes provided, I would suggest the chocolate truffle cheesecake as a delicious chocolate dessert option. The description of it being a \"death by chocolate!\" cheesecake indicates it is a rich, indulgent chocolate dessert that would make for a great chocolate-themed treat.",
+    "retrieved_recipes": [
+      "chocolate truffle cheesecake (death by chocolate!)",
+      "strawberry pretzel salad",
+      "half batch chocolate chip cookies"
+    ]
+  },
+  {
+    "query": "Give me a high-protein meal",
+    "baseline_answer": "Based on your search, I found: Pollo Al Ajillo - Garlic Chicken. Yummy, Mexican Style Lime And Cilantro Whole Chicken (Slow Cooker), and Kahlua Paradise Chicken. The first recipe has 824 calories. It takes about 40 minutes to prepare.",
+    "llm_rag_answer": "Based on the recipes provided, the most high-protein meal option would be the \"Kahlua Paradise Chicken\". This recipe uses 2 3/4 lbs of chicken, which is a good source of high-quality protein. The recipe is also tagged as \"high-protein\" and \"low-carb\", making it a suitable high-protein meal choice.",
+    "retrieved_recipes": [
+      "pollo al ajillo - garlic chicken. yummy",
+      "mexican style lime and cilantro whole chicken (slow cooker)",
+      "kahlua paradise chicken"
+    ]
+  }
+]

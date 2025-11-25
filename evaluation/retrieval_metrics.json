@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "avg_ndcg_at_3": 0.814,
+    "avg_recall_at_3": 0.869,
+    "num_queries": 18,
+    "k": 3
+  },
+  "per_query_metrics": [
+    {
+      "query": "Show me a quick vegetarian pasta recipe",
+      "ndcg@3": 1.0,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "List two low-calorie dinners",
+      "ndcg@3": 1.0,
+      "recall@3": 0.6,
+      "num_relevant": 5,
+      "num_retrieved": 5
+    },
+    {
+      "query": "What's a healthy breakfast option?",
+      "ndcg@3": 1.0,
+      "recall@3": 0.6,
+      "num_relevant": 5,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Suggest a chocolate dessert",
+      "ndcg@3": 0.92,
+      "recall@3": 1.0,
+      "num_relevant": 2,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Give me a high-protein meal",
+      "ndcg@3": 1.0,
+      "recall@3": 0.75,
+      "num_relevant": 4,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Show me a salad recipe",
+      "ndcg@3": 0.631,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "What can I make with chicken?",
+      "ndcg@3": 1.0,
+      "recall@3": 0.6,
+      "num_relevant": 5,
+      "num_retrieved": 5
+    },
+    {
+      "query": "List recipes under 30 minutes",
+      "ndcg@3": 1.0,
+      "recall@3": 0.6,
+      "num_relevant": 5,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Show me a soup recipe",
+      "ndcg@3": 0.631,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Give me a vegan recipe",
+      "ndcg@3": 0.92,
+      "recall@3": 1.0,
+      "num_relevant": 2,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Show me a low-sugar dessert",
+      "ndcg@3": 0.5,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "What's a good appetizer?",
+      "ndcg@3": 0.631,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Give me a recipe with rice",
+      "ndcg@3": 0.765,
+      "recall@3": 0.5,
+      "num_relevant": 4,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Show me a seafood dish",
+      "ndcg@3": 1.0,
+      "recall@3": 1.0,
+      "num_relevant": 2,
+      "num_retrieved": 5
+    },
+    {
+      "query": "What's a good lunch option?",
+      "ndcg@3": 0.631,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Give me a baked recipe",
+      "ndcg@3": 0.693,
+      "recall@3": 1.0,
+      "num_relevant": 2,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Show me a recipe with eggs",
+      "ndcg@3": 0.693,
+      "recall@3": 1.0,
+      "num_relevant": 2,
+      "num_retrieved": 5
+    },
+    {
+      "query": "Give me a spicy recipe",
+      "ndcg@3": 0.631,
+      "recall@3": 1.0,
+      "num_relevant": 1,
+      "num_retrieved": 5
+    }
+  ]
+}

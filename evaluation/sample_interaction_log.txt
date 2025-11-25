@@ -1,0 +1,172 @@
+======================================================================
+SAMPLE INTERACTION LOG
+Recipe Q&A Assistant with RAG
+======================================================================
+
+This log demonstrates typical user interactions with the
+conversational recipe Q&A assistant.
+
+======================================================================
+Interaction 1
+======================================================================
+
+USER:
+  Show me a quick vegetarian pasta recipe
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Southwestern Pasta
+     Calories: 295.7, Duration: 35.0 min, Relevance: 0.158
+  2. Oatmeal Bread
+     Calories: 208.2, Duration: 160.0 min, Relevance: 0.149
+  3. Stuffed Shells
+     Calories: 533.9, Duration: 50.0 min, Relevance: 0.147
+
+ASSISTANT:
+  Based on the recipes provided, the "southwestern pasta" recipe appears to be a quick vegetarian pasta option. The key ingredients are wacky mac pasta, minestrone soup, Morningstar Farms veggie crumbles, and black beans. This recipe looks like it can be prepared in about 35 minutes, making it a good choice for a quick vegetarian pasta dish.
+
+======================================================================
+Interaction 2
+======================================================================
+
+USER:
+  List two low-calorie dinners
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Fresh Berry Syrup
+     Calories: 736.2, Duration: 35.0 min, Relevance: 0.322
+  2. Glazed Whole Beets
+     Calories: 81.8, Duration: 15.0 min, Relevance: 0.317
+  3. Lemony Broccoli
+     Calories: 205.8, Duration: 10.0 min, Relevance: 0.310
+
+ASSISTANT:
+  Unfortunately, the recipes provided do not include any low-calorie dinner options. The recipes are mostly for beverages, side dishes, and desserts. There are no dinner recipes included in this context. The closest thing would be the "glazed whole beets" recipe, which is a low-calorie side dish, but not a full dinner.
+
+======================================================================
+Interaction 3
+======================================================================
+
+USER:
+  What's a healthy breakfast option?
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Big Breakfast Biscuit Sandwich
+     Calories: 320.4, Duration: 13.0 min, Relevance: 0.278
+  2. Fresh Berry Syrup
+     Calories: 736.2, Duration: 35.0 min, Relevance: 0.196
+  3. Strawberries With Yogurt And Lavender Sugar
+     Calories: 41.7, Duration: 3.0 min, Relevance: 0.168
+
+ASSISTANT:
+  Based on the recipes provided, a healthy breakfast option would be the "Strawberries with Yogurt and Lavender Sugar". This recipe is low in calories (41.7 calories), low in fat, and contains healthy ingredients like fresh strawberries and plain yogurt. The recipe also has a short preparation time of only 3 minutes, making it a convenient and nutritious breakfast choice.
+
+======================================================================
+Interaction 4
+======================================================================
+
+USER:
+  Suggest a chocolate dessert
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Chocolate Truffle Cheesecake (Death By Chocolate!)
+     Calories: 538.6, Duration: 80.0 min, Relevance: 0.175
+  2. Strawberry Pretzel Salad
+     Calories: 1565.2, Duration: 31.0 min, Relevance: 0.164
+  3. Half Batch Chocolate Chip Cookies
+     Calories: 132.6, Duration: 40.0 min, Relevance: 0.159
+
+ASSISTANT:
+  Based on the recipes provided, I would suggest the chocolate truffle cheesecake as a delicious chocolate dessert option. The description of it being a "death by chocolate!" cheesecake indicates it is a rich, indulgent chocolate dessert that would make for a great chocolate-themed treat.
+
+======================================================================
+Interaction 5
+======================================================================
+
+USER:
+  Give me a high-protein meal
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Pollo Al Ajillo - Garlic Chicken. Yummy
+     Calories: 823.5, Duration: 40.0 min, Relevance: 0.258
+  2. Mexican Style Lime And Cilantro Whole Chicken (Slow Cooker)
+     Calories: 741.2, Duration: 435.0 min, Relevance: 0.236
+  3. Kahlua Paradise Chicken
+     Calories: 757.8, Duration: 70.0 min, Relevance: 0.231
+
+ASSISTANT:
+  Based on the recipes provided, the most high-protein meal option would be the "Kahlua Paradise Chicken". This recipe uses 2 3/4 lbs of chicken, which is a good source of high-quality protein. The recipe is also tagged as "high-protein" and "low-carb", making it a suitable high-protein meal choice.
+
+======================================================================
+Interaction 6
+======================================================================
+
+USER:
+  What can I make with chicken?
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Easy Roast Chicken
+     Calories: 494.5, Duration: 62.0 min, Relevance: 0.380
+  2. Chicken Drumettes Pacifica
+     Calories: 318.0, Duration: 165.0 min, Relevance: 0.294
+  3. Spiced Citrus Dump Chicken
+     Calories: 311.1, Duration: 45.0 min, Relevance: 0.250
+
+ASSISTANT:
+  Based on the recipes provided in the context, here are some chicken dishes you can make:
+
+- Easy Roast Chicken - a whole roasted chicken seasoned with salt and pepper
+- Chicken Drumettes Pacifica - chicken drummettes marinated in a soy sauce, brown sugar, and butter sauce
+- Spiced Citrus Dump Chicken - chicken baked with a citrus and spice seasoning blend
+- Chicken Casserole Amandine - a chicken and stuffing casserole with cream of chicken soup and milk
+- Scrumptious Chicken - slow cooker chicken breasts in a creamy mushroom and onion soup sauce
+
+The recipes cover a range of chicken dishes, from simple roasted chicken to slow cooker and casserole options. Let me know if you need any other details about these chicken recipes.
+
+======================================================================
+Interaction 7
+======================================================================
+
+USER:
+  What's a good side dish?
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Flourless Chocolate Cake
+     Calories: 214.2, Duration: 70.0 min, Relevance: 0.170
+  2. Good Bread
+     Calories: 1705.2, Duration: 210.0 min, Relevance: 0.140
+  3. Chef Joey'S Chicken And Mushroom Scaloppine  For Two
+     Calories: 735.1, Duration: 45.0 min, Relevance: 0.122
+
+ASSISTANT:
+  Based on the recipes provided, there doesn't seem to be any information about specific side dish recommendations. The recipes cover main dishes like flourless chocolate cake, bread, chicken and mushroom scaloppine, and bacalhau a bras (a Portuguese cod dish), but do not mention any suggested side dishes to pair with them. Without more context about the types of main dishes you are looking to serve, I don't have enough information to provide a specific side dish recommendation from these recipes.
+
+======================================================================
+Interaction 8
+======================================================================
+
+USER:
+  Give me a recipe with rice
+
+SYSTEM RETRIEVAL (Top 3 Recipes):
+  1. Mexican Rice And Beef
+     Calories: 285.8, Duration: 35.0 min, Relevance: 0.258
+  2. Tequila Fried Rice
+     Calories: 166.7, Duration: 15.0 min, Relevance: 0.217
+  3. Chili Frijoles - Mexican Beans
+     Calories: 135.4, Duration: 900.0 min, Relevance: 0.201
+
+ASSISTANT:
+  Based on the recipes provided, here is a recipe that contains rice:
+
+Recipe 1: Mexican Rice and Beef
+This recipe includes brown rice as one of the main ingredients, along with ground beef, salsa, and black beans. It's an easy one-dish meal that can be prepared in about 35 minutes.
+
+
+======================================================================
+Summary Statistics
+======================================================================
+Total interactions shown: 8
+Average recipes retrieved per query: 5
+LLM Model: claude-3-haiku-20240307
+Retrieval Method: TF-IDF (scikit-learn)
+======================================================================
