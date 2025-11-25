@@ -62,7 +62,7 @@ Before pushing, you need to remove your API key from the code files:
 
 # Example for conversation_handler.py:
 # BEFORE:
-# api_key = "YOUR-API-KEY-REMOVED"
+# api_key = "your-api-key-here"
 
 # AFTER:
 # import os
