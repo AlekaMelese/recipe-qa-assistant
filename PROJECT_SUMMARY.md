@@ -178,20 +178,6 @@ jupyter notebook recipe_qa_demo.ipynb
 - **Per query**: ~$0.001
 - **Model**: Claude 3 Haiku ($0.25 per 1M input tokens)
 
-## Deliverables
-
-✅ **Prototype**: Scripts + Notebook with `retrieve_recipes()` and `answer_query()`
-✅ **Evaluation**: NDCG@3, Recall@3, Baseline comparison
-✅ **Sample Interactions**: 8 example dialogues
-✅ **Report**: Ready to write (2-3 pages)
-✅ **Presentation**: Ready to create (10-15 minutes)
-
-## Next Steps
-
-1. ✅ All code completed
-2. ✅ All evaluations done
-3. ⏳ Write 2-3 page report
-4. ⏳ Create presentation slides
 
 ## Contact
 
