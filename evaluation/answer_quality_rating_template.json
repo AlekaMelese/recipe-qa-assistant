@@ -2,7 +2,7 @@
   {
     "query_id": 1,
     "query": "Show me a quick vegetarian pasta recipe",
-    "baseline_answer": "Based on your search, I found: Southwestern Pasta, Oatmeal Bread, and Stuffed Shells. The first recipe has 295.7 calories and takes 35.0 minutes.",
+    "baseline_answer": "Based on Query search, I found: Southwestern Pasta, Oatmeal Bread, and Stuffed Shells. The first recipe has 295.7 calories and takes 35.0 minutes.",
     "llm_rag_answer": "Based on the recipes provided, the 'southwestern pasta' recipe appears to be a quick vegetarian pasta option. The key ingredients are wacky mac pasta, minestrone soup, Morningstar Farms veggie crumbles, and black beans. This recipe looks like it can be prepared in about 35 minutes, making it a good choice for a quick vegetarian pasta dish.",
 
     "baseline_rating": {
@@ -26,7 +26,7 @@
   {
     "query_id": 2,
     "query": "List two low-calorie dinners",
-    "baseline_answer": "Based on your search, I found: Fresh Berry Syrup, Glazed Whole Beets, and Lemony Broccoli. The first recipe has 736.2 calories and takes 35.0 minutes.",
+    "baseline_answer": "Based on Query search, I found: Fresh Berry Syrup, Glazed Whole Beets, and Lemony Broccoli. The first recipe has 736.2 calories and takes 35.0 minutes.",
     "llm_rag_answer": "Unfortunately, the recipes provided in the context do not include any low-calorie dinner options. The recipes are mostly for beverages, side dishes, and desserts. There are no dinner recipes included in this context. The closest thing would be the 'glazed whole beets' recipe, which is a low-calorie side dish, but not a full dinner.",
 
     "baseline_rating": {
@@ -50,7 +50,7 @@
   {
     "query_id": 3,
     "query": "What's a healthy breakfast option?",
-    "baseline_answer": "Based on your search, I found: Big Breakfast Biscuit Sandwich, Fresh Berry Syrup, and Strawberries with Yogurt and Lavender Sugar. The first recipe has high calories and takes significant time.",
+    "baseline_answer": "Based on Query search, I found: Big Breakfast Biscuit Sandwich, Fresh Berry Syrup, and Strawberries with Yogurt and Lavender Sugar. The first recipe has high calories and takes significant time.",
     "llm_rag_answer": "Based on the recipes provided, a healthy breakfast option would be the 'Strawberries with Yogurt and Lavender Sugar'. This recipe is low in calories (41.7 calories), low in fat and sodium, and uses fresh fruit and yogurt as the main ingredients. The recipe is also quick and easy to prepare, taking only 3 minutes.",
 
     "baseline_rating": {
