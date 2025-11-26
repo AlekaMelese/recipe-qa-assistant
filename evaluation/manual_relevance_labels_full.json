@@ -1,0 +1,794 @@
+[
+  {
+    "query_id": 1,
+    "query": "Show me a quick vegetarian pasta recipe",
+    "query_type": "ingredient + dietary + time constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 432886,
+        "title": "southwestern pasta",
+        "relevance_score": 0.157544355292086,
+        "manual_label": 1,
+        "reasoning": "Pasta: True, Veg: True, Quick (<50min): True"
+      },
+      {
+        "recipe_id": 44027,
+        "title": "oatmeal bread",
+        "relevance_score": 0.14882835480567994,
+        "manual_label": 0,
+        "reasoning": "Pasta: False, Veg: True, Quick (<50min): False"
+      },
+      {
+        "recipe_id": 374943,
+        "title": "stuffed shells",
+        "relevance_score": 0.14691394519182657,
+        "manual_label": 0,
+        "reasoning": "Pasta: True, Veg: True, Quick (<50min): False"
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.14556244659882916,
+        "manual_label": 0,
+        "reasoning": "Pasta: False, Veg: False, Quick (<50min): False"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.1408409642452134,
+        "manual_label": 0,
+        "reasoning": "Pasta: False, Veg: True, Quick (<50min): False"
+      }
+    ],
+    "manual_relevance_count": 1,
+    "notes": "Partial success: 1/5 recipes are relevant."
+  },
+  {
+    "query_id": 2,
+    "query": "List two low-calorie dinners",
+    "query_type": "nutritional + meal type constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "relevance_score": 0.32235325174984975,
+        "manual_label": 0,
+        "reasoning": "Low-cal (<400): False, Dinner: False, Not side: True"
+      },
+      {
+        "recipe_id": 269233,
+        "title": "glazed whole beets",
+        "relevance_score": 0.31659946877814105,
+        "manual_label": 0,
+        "reasoning": "Low-cal (<400): True, Dinner: False, Not side: False"
+      },
+      {
+        "recipe_id": 315097,
+        "title": "lemony broccoli",
+        "relevance_score": 0.3099176190710001,
+        "manual_label": 0,
+        "reasoning": "Low-cal (<400): True, Dinner: False, Not side: False"
+      },
+      {
+        "recipe_id": 478541,
+        "title": "the perfect poached egg",
+        "relevance_score": 0.303315789511733,
+        "manual_label": 0,
+        "reasoning": "Low-cal (<400): True, Dinner: False, Not side: True"
+      },
+      {
+        "recipe_id": 248898,
+        "title": "melt in your mouth pie/cobbler crust",
+        "relevance_score": 0.30307219173860295,
+        "manual_label": 0,
+        "reasoning": "Low-cal (<400): False, Dinner: False, Not side: True"
+      }
+    ],
+    "manual_relevance_count": 0,
+    "notes": "Retrieval failure: 0/5 recipes are truly relevant to query."
+  },
+  {
+    "query_id": 3,
+    "query": "What's a healthy breakfast option?",
+    "query_type": "meal type + health constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 297648,
+        "title": "big breakfast biscuit sandwich",
+        "relevance_score": 0.27841636548663623,
+        "manual_label": 0,
+        "reasoning": "Breakfast: True, Healthy: False, Not unhealthy: False"
+      },
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "relevance_score": 0.19623290478196936,
+        "manual_label": 0,
+        "reasoning": "Breakfast: True, Healthy: False, Not unhealthy: True"
+      },
+      {
+        "recipe_id": 228392,
+        "title": "strawberries with yogurt and lavender sugar",
+        "relevance_score": 0.16820320385284138,
+        "manual_label": 1,
+        "reasoning": "Breakfast: True, Healthy: True, Not unhealthy: True"
+      },
+      {
+        "recipe_id": 152489,
+        "title": "chorizo, potato, and egg breakfast tacos (tex-mex)",
+        "relevance_score": 0.15520624208724026,
+        "manual_label": 0,
+        "reasoning": "Breakfast: True, Healthy: False, Not unhealthy: False"
+      },
+      {
+        "recipe_id": 29518,
+        "title": "potato pancake",
+        "relevance_score": 0.15274263852942846,
+        "manual_label": 0,
+        "reasoning": "Breakfast: True, Healthy: False, Not unhealthy: True"
+      }
+    ],
+    "manual_relevance_count": 1,
+    "notes": "Partial success: 1/5 recipes are relevant."
+  },
+  {
+    "query_id": 4,
+    "query": "Suggest a chocolate dessert",
+    "query_type": "ingredient + meal type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 77427,
+        "title": "chocolate truffle cheesecake (death by chocolate!)",
+        "relevance_score": 0.17522004963435953,
+        "manual_label": 1,
+        "reasoning": "Chocolate: True, Dessert: True"
+      },
+      {
+        "recipe_id": 461661,
+        "title": "strawberry pretzel salad",
+        "relevance_score": 0.16382996188548013,
+        "manual_label": 0,
+        "reasoning": "Chocolate: False, Dessert: False"
+      },
+      {
+        "recipe_id": 109011,
+        "title": "half batch chocolate chip cookies",
+        "relevance_score": 0.15862686787777489,
+        "manual_label": 1,
+        "reasoning": "Chocolate: True, Dessert: True"
+      },
+      {
+        "recipe_id": 90796,
+        "title": "chocolate banana heaven cake",
+        "relevance_score": 0.1443717838566099,
+        "manual_label": 1,
+        "reasoning": "Chocolate: True, Dessert: True"
+      },
+      {
+        "recipe_id": 200427,
+        "title": "white chocolate holiday bark",
+        "relevance_score": 0.13653842822837833,
+        "manual_label": 0,
+        "reasoning": "Chocolate: True, Dessert: False"
+      }
+    ],
+    "manual_relevance_count": 3,
+    "notes": "Partial success: 3/5 recipes are relevant."
+  },
+  {
+    "query_id": 5,
+    "query": "Give me a high-protein meal",
+    "query_type": "nutritional constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 289140,
+        "title": "pollo al ajillo - garlic chicken. yummy",
+        "relevance_score": 0.2580389456607474,
+        "manual_label": 1,
+        "reasoning": "Protein: True, Meal: True"
+      },
+      {
+        "recipe_id": 271347,
+        "title": "mexican style lime and cilantro whole chicken (slow cooker)",
+        "relevance_score": 0.23634019104628468,
+        "manual_label": 1,
+        "reasoning": "Protein: True, Meal: True"
+      },
+      {
+        "recipe_id": 100452,
+        "title": "kahlua paradise chicken",
+        "relevance_score": 0.2311785518875133,
+        "manual_label": 1,
+        "reasoning": "Protein: True, Meal: True"
+      },
+      {
+        "recipe_id": 103817,
+        "title": "fiery roasted pumpkin seeds",
+        "relevance_score": 0.224102476274219,
+        "manual_label": 1,
+        "reasoning": "Protein: True, Meal: True"
+      },
+      {
+        "recipe_id": 494860,
+        "title": "high protein banana oat ricotta muffins with lsa",
+        "relevance_score": 0.21504536542364824,
+        "manual_label": 1,
+        "reasoning": "Protein: True, Meal: True"
+      }
+    ],
+    "manual_relevance_count": 5,
+    "notes": "Perfect retrieval: All 5 recipes are relevant."
+  },
+  {
+    "query_id": 6,
+    "query": "Show me a salad recipe",
+    "query_type": "dish type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.19214936963918483,
+        "manual_label": 0,
+        "reasoning": "Salad: False"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.18591678782149845,
+        "manual_label": 0,
+        "reasoning": "Salad: False"
+      },
+      {
+        "recipe_id": 309379,
+        "title": "russian salad dressing",
+        "relevance_score": 0.14731889352351285,
+        "manual_label": 1,
+        "reasoning": "Salad: True"
+      },
+      {
+        "recipe_id": 180345,
+        "title": "pot sticker and roasted pepper salad",
+        "relevance_score": 0.14696392760218494,
+        "manual_label": 1,
+        "reasoning": "Salad: True"
+      },
+      {
+        "recipe_id": 385367,
+        "title": "alouette crumbled blue cheese pear and baby arugula salad",
+        "relevance_score": 0.12499921915972653,
+        "manual_label": 1,
+        "reasoning": "Salad: True"
+      }
+    ],
+    "manual_relevance_count": 3,
+    "notes": "Partial success: 3/5 recipes are relevant."
+  },
+  {
+    "query_id": 7,
+    "query": "What can I make with chicken?",
+    "query_type": "ingredient constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 111221,
+        "title": "easy roast chicken",
+        "relevance_score": 0.38007276035769055,
+        "manual_label": 1,
+        "reasoning": "Chicken: True"
+      },
+      {
+        "recipe_id": 250600,
+        "title": "chicken drumettes pacifica",
+        "relevance_score": 0.2939976226183982,
+        "manual_label": 1,
+        "reasoning": "Chicken: True"
+      },
+      {
+        "recipe_id": 182179,
+        "title": "spiced citrus dump chicken",
+        "relevance_score": 0.24987370551817145,
+        "manual_label": 1,
+        "reasoning": "Chicken: True"
+      },
+      {
+        "recipe_id": 140548,
+        "title": "chicken casserole amandine",
+        "relevance_score": 0.24915458218304007,
+        "manual_label": 1,
+        "reasoning": "Chicken: True"
+      },
+      {
+        "recipe_id": 133331,
+        "title": "scrumptious chicken",
+        "relevance_score": 0.2436276987445705,
+        "manual_label": 1,
+        "reasoning": "Chicken: True"
+      }
+    ],
+    "manual_relevance_count": 5,
+    "notes": "Perfect retrieval: All 5 recipes are relevant."
+  },
+  {
+    "query_id": 8,
+    "query": "List recipes under 30 minutes",
+    "query_type": "time constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 407931,
+        "title": "basic syrup",
+        "relevance_score": 0.21967259368177672,
+        "manual_label": 0,
+        "reasoning": "Under 30 min: False (30.0 min)"
+      },
+      {
+        "recipe_id": 112128,
+        "title": "scuffles",
+        "relevance_score": 0.1936739950411182,
+        "manual_label": 1,
+        "reasoning": "Under 30 min: True (22.0 min)"
+      },
+      {
+        "recipe_id": 272272,
+        "title": "sopapillas-rudd",
+        "relevance_score": 0.19334828684808006,
+        "manual_label": 0,
+        "reasoning": "Under 30 min: False (30.0 min)"
+      },
+      {
+        "recipe_id": 423427,
+        "title": "beans on toast",
+        "relevance_score": 0.180008577731665,
+        "manual_label": 1,
+        "reasoning": "Under 30 min: True (20.0 min)"
+      },
+      {
+        "recipe_id": 299129,
+        "title": "peanut butter goat milk fudge",
+        "relevance_score": 0.1545608600418323,
+        "manual_label": 0,
+        "reasoning": "Under 30 min: False (30.0 min)"
+      }
+    ],
+    "manual_relevance_count": 2,
+    "notes": "Partial success: 2/5 recipes are relevant."
+  },
+  {
+    "query_id": 9,
+    "query": "Show me a soup recipe",
+    "query_type": "dish type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.196312550232648,
+        "manual_label": 1,
+        "reasoning": "Soup/Stew: True"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.18994493095051773,
+        "manual_label": 0,
+        "reasoning": "Soup/Stew: False"
+      },
+      {
+        "recipe_id": 432886,
+        "title": "southwestern pasta",
+        "relevance_score": 0.15608329691735306,
+        "manual_label": 0,
+        "reasoning": "Soup/Stew: False"
+      },
+      {
+        "recipe_id": 162471,
+        "title": "easier than easy - french onion soup",
+        "relevance_score": 0.145173922632521,
+        "manual_label": 1,
+        "reasoning": "Soup/Stew: True"
+      },
+      {
+        "recipe_id": 324263,
+        "title": "sunday chicken dinner",
+        "relevance_score": 0.1391975120388624,
+        "manual_label": 0,
+        "reasoning": "Soup/Stew: False"
+      }
+    ],
+    "manual_relevance_count": 2,
+    "notes": "Partial success: 2/5 recipes are relevant."
+  },
+  {
+    "query_id": 10,
+    "query": "What's a good side dish?",
+    "query_type": "course type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "relevance_score": 0.17020973252282673,
+        "manual_label": 0,
+        "reasoning": "Side dish: False, Not main: True"
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "relevance_score": 0.1396625043416368,
+        "manual_label": 0,
+        "reasoning": "Side dish: False, Not main: True"
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "relevance_score": 0.1216560984266108,
+        "manual_label": 0,
+        "reasoning": "Side dish: False, Not main: True"
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "relevance_score": 0.11314634347779493,
+        "manual_label": 1,
+        "reasoning": "Side dish: True, Not main: True"
+      },
+      {
+        "recipe_id": 34966,
+        "title": "bacalhau a bras",
+        "relevance_score": 0.11001981911762679,
+        "manual_label": 0,
+        "reasoning": "Side dish: False, Not main: False"
+      }
+    ],
+    "manual_relevance_count": 1,
+    "notes": "Partial success: 1/5 recipes are relevant."
+  },
+  {
+    "query_id": 11,
+    "query": "Give me a vegan recipe",
+    "query_type": "dietary constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 356453,
+        "title": "vegan cheesecake (raspberry swirl and key lime)",
+        "relevance_score": 0.17990821370943688,
+        "manual_label": 1,
+        "reasoning": "Vegan: False, No animal: True"
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.17560148637309614,
+        "manual_label": 1,
+        "reasoning": "Vegan: False, No animal: True"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.16990565383831965,
+        "manual_label": 1,
+        "reasoning": "Vegan: False, No animal: True"
+      },
+      {
+        "recipe_id": 141933,
+        "title": "vegan chocolate bran muffins",
+        "relevance_score": 0.13559874256773966,
+        "manual_label": 1,
+        "reasoning": "Vegan: True, No animal: True"
+      },
+      {
+        "recipe_id": 429706,
+        "title": "carrot and cashew nut roast",
+        "relevance_score": 0.12540007088860328,
+        "manual_label": 1,
+        "reasoning": "Vegan: True, No animal: True"
+      }
+    ],
+    "manual_relevance_count": 5,
+    "notes": "Perfect retrieval: All 5 recipes are relevant."
+  },
+  {
+    "query_id": 12,
+    "query": "Show me a low-sugar dessert",
+    "query_type": "nutritional + meal type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 461661,
+        "title": "strawberry pretzel salad",
+        "relevance_score": 0.1980989111803771,
+        "manual_label": 0,
+        "reasoning": "Dessert: False, Low-sugar: False"
+      },
+      {
+        "recipe_id": 228392,
+        "title": "strawberries with yogurt and lavender sugar",
+        "relevance_score": 0.18058458623955256,
+        "manual_label": 0,
+        "reasoning": "Dessert: False, Low-sugar: False"
+      },
+      {
+        "recipe_id": 70394,
+        "title": "fresh berry syrup",
+        "relevance_score": 0.173886860947159,
+        "manual_label": 1,
+        "reasoning": "Dessert: True, Low-sugar: True"
+      },
+      {
+        "recipe_id": 269233,
+        "title": "glazed whole beets",
+        "relevance_score": 0.17078310054117415,
+        "manual_label": 0,
+        "reasoning": "Dessert: False, Low-sugar: False"
+      },
+      {
+        "recipe_id": 183491,
+        "title": "apricot fizz",
+        "relevance_score": 0.16159811078986402,
+        "manual_label": 0,
+        "reasoning": "Dessert: False, Low-sugar: False"
+      }
+    ],
+    "manual_relevance_count": 1,
+    "notes": "Partial success: 1/5 recipes are relevant."
+  },
+  {
+    "query_id": 13,
+    "query": "What's a good appetizer?",
+    "query_type": "course type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "relevance_score": 0.19328376835081565,
+        "manual_label": 0,
+        "reasoning": "Appetizer: False"
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "relevance_score": 0.1585954853248095,
+        "manual_label": 0,
+        "reasoning": "Appetizer: False"
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "relevance_score": 0.13814808823343638,
+        "manual_label": 0,
+        "reasoning": "Appetizer: False"
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "relevance_score": 0.12848473068113805,
+        "manual_label": 0,
+        "reasoning": "Appetizer: False"
+      },
+      {
+        "recipe_id": 266495,
+        "title": "rachael ray\u2019s croque monsieur",
+        "relevance_score": 0.1249050772650412,
+        "manual_label": 0,
+        "reasoning": "Appetizer: False"
+      }
+    ],
+    "manual_relevance_count": 0,
+    "notes": "Retrieval failure: 0/5 recipes are truly relevant to query."
+  },
+  {
+    "query_id": 14,
+    "query": "Give me a recipe with rice",
+    "query_type": "ingredient constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 329514,
+        "title": "mexican rice and beef",
+        "relevance_score": 0.2579350132120014,
+        "manual_label": 1,
+        "reasoning": "Rice: True"
+      },
+      {
+        "recipe_id": 186219,
+        "title": "tequila fried rice",
+        "relevance_score": 0.2174302939888617,
+        "manual_label": 1,
+        "reasoning": "Rice: True"
+      },
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.20103488089514227,
+        "manual_label": 0,
+        "reasoning": "Rice: False"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.1945140874845752,
+        "manual_label": 0,
+        "reasoning": "Rice: False"
+      },
+      {
+        "recipe_id": 184491,
+        "title": "cherry almond rice pudding",
+        "relevance_score": 0.16777718444264608,
+        "manual_label": 1,
+        "reasoning": "Rice: True"
+      }
+    ],
+    "manual_relevance_count": 3,
+    "notes": "Partial success: 3/5 recipes are relevant."
+  },
+  {
+    "query_id": 15,
+    "query": "Show me a seafood dish",
+    "query_type": "ingredient constraint (protein)",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 249377,
+        "title": "ceviche de gringo",
+        "relevance_score": 0.18624926462974845,
+        "manual_label": 1,
+        "reasoning": "Seafood: True"
+      },
+      {
+        "recipe_id": 359569,
+        "title": "trout with caper sauce",
+        "relevance_score": 0.15281484386154312,
+        "manual_label": 1,
+        "reasoning": "Seafood: True"
+      },
+      {
+        "recipe_id": 270855,
+        "title": "tilapia with creamy leeks",
+        "relevance_score": 0.11636418847076538,
+        "manual_label": 1,
+        "reasoning": "Seafood: True"
+      },
+      {
+        "recipe_id": 96550,
+        "title": "jambalaya style chicken and shrimp",
+        "relevance_score": 0.10874974897751843,
+        "manual_label": 1,
+        "reasoning": "Seafood: True"
+      },
+      {
+        "recipe_id": 512504,
+        "title": "tilapia and vegetable stir fry",
+        "relevance_score": 0.10830213000236624,
+        "manual_label": 1,
+        "reasoning": "Seafood: True"
+      }
+    ],
+    "manual_relevance_count": 5,
+    "notes": "Perfect retrieval: All 5 recipes are relevant."
+  },
+  {
+    "query_id": 16,
+    "query": "What's a good lunch option?",
+    "query_type": "meal type",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 426204,
+        "title": "flourless chocolate cake",
+        "relevance_score": 0.15587266360768687,
+        "manual_label": 0,
+        "reasoning": "Lunch: False, Not dessert: True"
+      },
+      {
+        "recipe_id": 266495,
+        "title": "rachael ray\u2019s croque monsieur",
+        "relevance_score": 0.15488363040167094,
+        "manual_label": 1,
+        "reasoning": "Lunch: True, Not dessert: True"
+      },
+      {
+        "recipe_id": 393801,
+        "title": "good bread",
+        "relevance_score": 0.12789848286102887,
+        "manual_label": 0,
+        "reasoning": "Lunch: False, Not dessert: True"
+      },
+      {
+        "recipe_id": 211933,
+        "title": "chef joey's chicken and mushroom scaloppine  for two",
+        "relevance_score": 0.11140878858576228,
+        "manual_label": 0,
+        "reasoning": "Lunch: False, Not dessert: True"
+      },
+      {
+        "recipe_id": 422812,
+        "title": "beaumont ranch potato salad",
+        "relevance_score": 0.10361582545221915,
+        "manual_label": 1,
+        "reasoning": "Lunch: True, Not dessert: True"
+      }
+    ],
+    "manual_relevance_count": 2,
+    "notes": "Partial success: 2/5 recipes are relevant."
+  },
+  {
+    "query_id": 17,
+    "query": "Give me a baked recipe",
+    "query_type": "cooking method",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.1769438592581259,
+        "manual_label": 0,
+        "reasoning": "Baked: False"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.17120448534274793,
+        "manual_label": 0,
+        "reasoning": "Baked: False"
+      },
+      {
+        "recipe_id": 75315,
+        "title": "quick baked beans with bacon",
+        "relevance_score": 0.16489087453684834,
+        "manual_label": 1,
+        "reasoning": "Baked: True"
+      },
+      {
+        "recipe_id": 269983,
+        "title": "baked egg custard",
+        "relevance_score": 0.12979193347169174,
+        "manual_label": 1,
+        "reasoning": "Baked: True"
+      },
+      {
+        "recipe_id": 453412,
+        "title": "creamy butterscotch pudding recipe from toh",
+        "relevance_score": 0.11473036429876488,
+        "manual_label": 0,
+        "reasoning": "Baked: False"
+      }
+    ],
+    "manual_relevance_count": 2,
+    "notes": "Partial success: 2/5 recipes are relevant."
+  },
+  {
+    "query_id": 18,
+    "query": "Show me a recipe with eggs",
+    "query_type": "ingredient constraint",
+    "retrieved_recipes": [
+      {
+        "recipe_id": 340022,
+        "title": "chili frijoles - mexican beans",
+        "relevance_score": 0.21031324979574056,
+        "manual_label": 0,
+        "reasoning": "Eggs: False"
+      },
+      {
+        "recipe_id": 9703,
+        "title": "chickoo halwa recipe",
+        "relevance_score": 0.20349150201089558,
+        "manual_label": 0,
+        "reasoning": "Eggs: False"
+      },
+      {
+        "recipe_id": 453412,
+        "title": "creamy butterscotch pudding recipe from toh",
+        "relevance_score": 0.16869644296073474,
+        "manual_label": 1,
+        "reasoning": "Eggs: True"
+      },
+      {
+        "recipe_id": 374943,
+        "title": "stuffed shells",
+        "relevance_score": 0.1358620097593945,
+        "manual_label": 1,
+        "reasoning": "Eggs: True"
+      },
+      {
+        "recipe_id": 107408,
+        "title": "kelly's not-so-secret recipe",
+        "relevance_score": 0.13435277871356985,
+        "manual_label": 0,
+        "reasoning": "Eggs: False"
+      }
+    ],
+    "manual_relevance_count": 2,
+    "notes": "Partial success: 2/5 recipes are relevant."
+  }
+]
