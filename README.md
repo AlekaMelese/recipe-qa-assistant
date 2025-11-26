@@ -84,15 +84,11 @@ Project/
 
 ### 1. Activate Conda Environment
 
-```bash
-conda activate /scratch/aayalew25/Aleka/alekapy
-```
+
 
 ### 2. Navigate to Project Directory
 
-```bash
-cd /scratch/aayalew25/Food/FoodNew/Project
-```
+
 
 ### 3. Install Additional Dependencies (if needed)
 
@@ -227,57 +223,8 @@ Located in `evaluation/test_qa_pairs.json`:
 - Relevance to query
 - Groundedness in retrieved recipes
 
-## Quick Start
 
-```bash
-# 1. Activate environment
-conda activate /scratch/aayalew25/Aleka/alekapy
 
-# 2. Go to project
-cd /scratch/aayalew25/Food/FoodNew/Project/src
-
-# 3. Set API key
-export ANTHROPIC_API_KEY='your-key'
-
-# 4. Run RAG system
-python rag_pipeline.py
-```
-
-## Troubleshooting
-
-### Missing API Key
-
-```
-ValueError: ANTHROPIC_API_KEY not found
-```
-
-**Solution:** Set the environment variable:
-```bash
-export ANTHROPIC_API_KEY='your-key'
-```
-
-### Import Errors
-
-```
-ModuleNotFoundError: No module named 'anthropic'
-```
-
-**Solution:** Install the package:
-```bash
-pip install anthropic
-```
-
-### File Not Found
-
-```
-FileNotFoundError: recipes_subset.json
-```
-
-**Solution:** Run data preparation:
-```bash
-cd src
-python prepare_data.py
-```
 
 ## Deliverables Checklist
 
@@ -312,8 +259,8 @@ python prepare_data.py
 ## 📧 Contact
 
 For questions or feedback:
-- Email: [your-email@example.com]
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: melese1820@gmail.com
+- GitHub: https://github.com/AlekaMelese
 
 ## 📄 License
 
@@ -322,8 +269,9 @@ MIT License - Feel free to use this project for educational purposes.
 ## 🙏 Acknowledgments
 
 - HUMMUS Recipe Database for the dataset
-- Anthropic for Claude 3 Haiku API
-- Course instructors and TAs
+- Course instructors Mehrdad Rostami and Mohammad Aliannejadi
+
+
 
 ---
 
