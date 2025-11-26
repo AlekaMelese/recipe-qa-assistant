@@ -179,11 +179,6 @@ jupyter notebook recipe_qa_demo.ipynb
 - **Model**: Claude 3 Haiku ($0.25 per 1M input tokens)
 
 
-## Contact
-
-For questions about this project, refer to the code documentation and evaluation results.
-
----
 
 *Generated: November 24, 2025*
 *Model: Claude 3 Haiku via Anthropic API*
