@@ -26,9 +26,6 @@ This guide will help you push your Recipe Q&A Assistant project to GitHub.
 
 Navigate to your project directory:
 
-```bash
-cd /scratch/aayalew25/Food/FoodNew/Project
-```
 
 ### Step 3: Initialize Git Repository
 
