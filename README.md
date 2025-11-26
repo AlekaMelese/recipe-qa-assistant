@@ -242,19 +242,10 @@ Located in `evaluation/test_qa_pairs.json`:
 
 ## 📖 Additional Documentation
 
-- **[PROJECT_REPORT.txt](PROJECT_REPORT.txt)** - Full 4-page academic report with dual evaluation methodology
 - **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Technical summary of all components
-- **[PRESENTATION_OUTLINE.md](PRESENTATION_OUTLINE.md)** - 10-15 minute presentation outline
 
-### Evaluation Documentation
 
-- **[evaluation/EVALUATION_SUMMARY.txt](evaluation/EVALUATION_SUMMARY.txt)** - Complete evaluation overview (heuristic + manual)
-- **[evaluation/MANUAL_LABELING_ANALYSIS.txt](evaluation/MANUAL_LABELING_ANALYSIS.txt)** - Detailed manual evaluation methodology (18 queries)
-- **[evaluation/manual_metrics.json](evaluation/manual_metrics.json)** - Manual NDCG/Recall results (0.539, 0.531)
-- **[evaluation/retrieval_metrics.json](evaluation/retrieval_metrics.json)** - Heuristic NDCG/Recall results (0.814, 0.869)
-- **[evaluation/ANSWER_QUALITY_ANALYSIS.txt](evaluation/ANSWER_QUALITY_ANALYSIS.txt)** - Answer quality comparison (baseline vs LLM-RAG)
-- **[evaluation/baseline_comparison.txt](evaluation/baseline_comparison.txt)** - Detailed examples of baseline vs LLM-RAG
-- **[evaluation/](evaluation/)** - All evaluation results, metrics, and sample interactions
+
 
 ## 📧 Contact
 
