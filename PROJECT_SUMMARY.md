@@ -112,10 +112,7 @@ Project/
 │   ├── manual_relevance_labels_full.json # Manual labels (90 recipes)
 │   ├── baseline_comparison.txt/.json    # Baseline comparison
 │   ├── sample_interaction_log.txt/.json # Sample dialogues
-│   ├── EVALUATION_SUMMARY.txt           # Complete evaluation overview
-│   ├── MANUAL_LABELING_ANALYSIS.txt     # Manual evaluation methodology
-│   ├── ANSWER_QUALITY_ANALYSIS.txt      # Answer quality analysis
-│   └── MANUAL_CALCULATION_STEP_BY_STEP.txt # NDCG calculation guide
+│ 
 ├── requirements.txt                     # Dependencies
 ├── README.md                            # Usage instructions
 └── PROJECT_SUMMARY.md                   # This file
