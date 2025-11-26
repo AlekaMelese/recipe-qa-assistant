@@ -3,7 +3,7 @@ ANSWER QUALITY EVALUATION - Human Rating Analysis
 ================================================================================
 Project: Recipe Q&A Assistant with RAG
 Date: November 26, 2025
-Evaluator: [Your Name]
+Evaluator: Getnet, Mehammad, and Aleka
 Method: Manual rating on 1-5 scale
 ================================================================================
 
