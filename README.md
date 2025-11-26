@@ -236,9 +236,7 @@ Located in `evaluation/test_qa_pairs.json`:
 - [x] Conversation handling with clarifications
 - [x] Evaluation results (NDCG: 0.814, Recall: 0.869)
 - [x] Baseline vs LLM-RAG comparison
-- [x] Sample interaction logs (8 examples + live demo)
-- [x] 2-3 page report (PROJECT_REPORT.txt)
-- [x] Presentation slides outline (PRESENTATION_OUTLINE.md)
+
 
 ## 📖 Additional Documentation
 
